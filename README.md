@@ -4,8 +4,7 @@
 
 The Tableau dashboard shows total waste cost, savings opportunities, material-level waste, and monthly trends.
 
-![Factory Waste Reduction Tableau Dashboard](factory_waste_dashboard2.png)
-
+![Factory Waste Reduction Tableau Dashboard](dashboard/factory_waste_dashboard1.png.png)
 ## Business question
 
 **How much money could a packaging factory save by reducing material waste?**
