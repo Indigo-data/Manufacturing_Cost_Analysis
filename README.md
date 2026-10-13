@@ -4,7 +4,7 @@
 
 The Tableau dashboard shows total waste cost, savings opportunities, material-level waste, and monthly trends.
 
-![Factory Waste Reduction Tableau Dashboard](dashboard/factory_waste_dashboard2.png)
+![Factory Waste Reduction Tableau Dashboard](factory_waste_dashboard2.png.png)
 
 ## Business question
 
@@ -95,3 +95,4 @@ Use cost-weighted measures when comparing materials with different units, such a
 ## Limitations
 
 Savings are potential gross savings based on standard cost. The data does not include a confirmed waste-reduction intervention, complete inventory balances, or implementation costs. Therefore, this project does not claim verified net savings.
+
