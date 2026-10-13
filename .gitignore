@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Databricks local configuration and credentials
+.databricks/
+databricks.yml
+.databricks.env
+
+# VS Code personal workspace settings
+.vscode/*
+!.vscode/extensions.json
