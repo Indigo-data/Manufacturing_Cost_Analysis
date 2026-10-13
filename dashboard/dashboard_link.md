@@ -1,0 +1,53 @@
+-- Databricks notebook source
+
+-- MAGIC %md
+-- MAGIC # Factory Waste Reduction & Cost Savings Analysis
+-- MAGIC
+-- MAGIC ## Interactive Tableau Dashboard
+-- MAGIC
+-- MAGIC [View the Factory Waste Reduction Opportunity Dashboard](https://public.tableau.com/views/WasteCostReductionAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+-- MAGIC
+-- MAGIC ## Dashboard Summary
+-- MAGIC
+-- MAGIC This Tableau dashboard answers the main business question:
+-- MAGIC
+-- MAGIC **How much money could the factory save by reducing material waste?**
+-- MAGIC
+-- MAGIC The dashboard includes:
+-- MAGIC
+-- MAGIC - Total material waste cost
+-- MAGIC - Most costly wasted material
+-- MAGIC - 30% and 50% waste-reduction savings opportunities
+-- MAGIC - Waste cost by material, machine line, and shift
+-- MAGIC - Monthly waste-cost trend
+-- MAGIC
+-- MAGIC ## Data Source
+-- MAGIC
+-- MAGIC The dashboard uses the Databricks Gold table:
+-- MAGIC
+-- MAGIC `gold_material_usage`
+-- MAGIC
+-- MAGIC This table combines daily material consumption, waste records, and product unit costs.
+
+-- COMMAND ----------
+
+-- MAGIC %md
+-- MAGIC ## Key Project Question
+-- MAGIC
+-- MAGIC **How much money could the factory save by reducing material waste?**
+-- MAGIC
+-- MAGIC Savings are estimated using:
+-- MAGIC
+-- MAGIC `waste_cost × reduction percentage`
+-- MAGIC
+-- MAGIC Example:
+-- MAGIC
+-- MAGIC - 30% reduction = `waste_cost * 0.30`
+-- MAGIC - 50% reduction = `waste_cost * 0.50`
+
+-- COMMAND ----------
+
+-- MAGIC %md
+-- MAGIC ## Tableau Workbook Name
+-- MAGIC
+-- MAGIC **Factory Waste Reduction & Cost Savings Analysis**

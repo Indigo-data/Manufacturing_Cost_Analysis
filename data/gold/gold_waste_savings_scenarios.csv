@@ -1,0 +1,7 @@
+source_year,scenario_name,reduction_pct,total_waste_cost,potential_savings
+2026,2 packing-paper rolls saved per line,null,5232.00,553.00
+2025,2 packing-paper rolls saved per line,null,20014.50,553.00
+2026,30% waste reduction,0.30,5232.00,1569.60
+2025,30% waste reduction,0.30,20014.50,6004.35
+2026,50% waste reduction,0.50,5232.00,2616.00
+2025,50% waste reduction,0.50,20014.50,10007.25

@@ -1,0 +1,7 @@
+sku,manufacturer,product_name,vendor,category,unit_of_measure,product_spec,case_pack,standard_unit_cost,pricing_basis,minimum_order_units,standard_lead_time_days,reorder_point_units,machine_line_count,operating_shifts_per_day,units_issued_per_line_shift,eligible_lines
+BNP1290,BOX USA,White Newsprint Packing Paper Roll,BOX USA Wholesale Account,Packing Paper,roll,"12 in x 1440 ft, 1,000-sheet equivalent",1,39.50,Synthetic factory-wholesale contract price for portfolio analysis,24,7,420,7,3,3,All lines
+S-423,Uline,Clear Carton Sealing Tape,Uline Account,Sealing,roll,"2 in x 110 yds, 2.0 mil",36,3.75,User-provided account price; minimum order is 18 rolls,18,7,210,7,3,1,All lines
+SW-18-1500,Industrial Supply,Clear Stretch Wrap Film,Uline Account,Palletizing,roll,"18 in x 1500 ft, 80 gauge",4,21.50,Synthetic wholesale contract price for portfolio analysis,16,7,105,4,3,1,Lines 01-04
+LBL-4X6-500,Industrial Supply,Direct Thermal Shipping Labels,Uline Account,Labeling,roll,"4 in x 6 in, 500 labels per roll",12,13.50,Synthetic wholesale contract price for portfolio analysis,24,7,210,7,3,1,All lines
+STRAP-12-900,Industrial Supply,Polypropylene Strapping,Uline Account,Pallet Securing,roll,1/2 in x 900 ft,2,19.75,Synthetic wholesale contract price for portfolio analysis,12,7,84,3,3,1,Lines 05-07
+GLV-NIT-100,Industrial Supply,Nitrile Disposable Gloves,Uline Account,Safety,box,"Medium, 100 gloves per box",10,11.25,Synthetic wholesale contract price for portfolio analysis,20,7,140,7,3,1,All lines

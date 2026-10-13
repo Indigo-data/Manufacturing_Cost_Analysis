@@ -1,0 +1,991 @@
+date,facility,machine_line,shift,sku,units_wasted,waste_reason,reported_by
+2025-01-01,Main Packaging Plant,Line-05,Night,STRAP-12-900,1,Strap Breakage,Machine Operator
+2025-01-02,Main Packaging Plant,Line-01,Swing,LBL-4X6-500,1,label misprint,Shift Lead
+2025-01-02,Main Packaging Plant,Line-04,Swing,BNP1290,1,Over-dispensing,Machine Operator
+2025-01-02,Main Packaging Plant,Line-06,Day,BNP1290,1,Incorrect Application,Machine Operator
+2025-01-03,Main Packaging Plant,Line-02,Day,S-423,1,Incorrect Application,Shift Lead
+2025-01-04,Main Packaging Plant,Line-04,Day,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-01-05,Main Packaging Plant,Line-03,Night,BNP1290,1,Damaged Roll,Shift Lead
+2025-01-05,Main Packaging Plant,Line-04,Night,LBL-4X6-500,1,label misprint,Materials Handler
+2025-01-05,Main Packaging Plant,Line-05,Night,STRAP-12-900,1,Strap Breakage,Shift Lead
+2025-01-06,Main Packaging Plant,Line-04,Day,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-01-06,Main Packaging Plant,Line-04,Swing,BNP1290,1,Incorrect Application,Machine Operator
+2025-01-06,Main Packaging Plant,Line-06,Swing,BNP1290,1,over dispensing,Materials Handler
+2025-01-07,Main Packaging Plant,Line-04,Day,BNP1290,2,Over-dispensing,Shift Lead
+2025-01-07,Main Packaging Plant,Line-04,Night,LBL-4X6-500,1,label misprint,Shift Lead
+2025-01-07,Main Packaging Plant,Line-06,Night,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-01-08,Main Packaging Plant,Line-04,Day,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-01-08,Main Packaging Plant,Line-07,Day,STRAP-12-900,1,strap breakage,Shift Lead
+2025-01-08,Main Packaging Plant,Line-07,Night,S-423,1,Damaged Roll,Machine Operator
+2025-01-09,Main Packaging Plant,Line-04,Day,BNP1290,1,over dispensing,Materials Handler
+2025-01-09,Main Packaging Plant,Line-07,Night,LBL-4X6-500,1,label misprint,Materials Handler
+2025-01-10,Main Packaging Plant,Line-02,Swing,S-423,1,Tape Misfeed,Machine Operator
+2025-01-10,Main Packaging Plant,Line-05,Day,STRAP-12-900,1,Incorrect Tension,Shift Lead
+2025-01-10,Main Packaging Plant,Line-07,Swing,GLV-NIT-100,1,Contamination,Shift Lead
+2025-01-11,Main Packaging Plant,Line-05,Night,BNP1290,1,Incorrect Application,Shift Lead
+2025-01-12,Main Packaging Plant,Line-03,Night,BNP1290,1,over dispensing,Materials Handler
+2025-01-12,Main Packaging Plant,Line-03,Night,S-423,1,Tape Misfeed,Machine Operator
+2025-01-13,Main Packaging Plant,Line-02,Day,S-423,1,Incorrect Application,Materials Handler
+2025-01-13,Main Packaging Plant,Line-03,Day,BNP1290,1,Damaged Roll,Materials Handler
+2025-01-13,Main Packaging Plant,Line-04,Swing,S-423,1,Damaged Roll,Materials Handler
+2025-01-13,Main Packaging Plant,Line-05,Day,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-01-13,Main Packaging Plant,Line-05,Night,STRAP-12-900,1,strap breakage,Shift Lead
+2025-01-13,Main Packaging Plant,Line-07,Swing,STRAP-12-900,1,strap breakage,Shift Lead
+2025-01-14,Main Packaging Plant,Line-02,Day,S-423,1,Damaged Roll,Materials Handler
+2025-01-14,Main Packaging Plant,Line-03,Swing,S-423,1,Tape Misfeed,Machine Operator
+2025-01-14,Main Packaging Plant,Line-07,Day,BNP1290,1,Damaged Roll,Shift Lead
+2025-01-15,Main Packaging Plant,Line-02,Night,BNP1290,1,Over-dispensing,Machine Operator
+2025-01-15,Main Packaging Plant,Line-04,Night,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-01-15,Main Packaging Plant,Line-06,Day,STRAP-12-900,1,strap breakage,Materials Handler
+2025-01-15,Main Packaging Plant,Line-07,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-01-16,Main Packaging Plant,Line-01,Swing,BNP1290,1,Incorrect Application,Machine Operator
+2025-01-16,Main Packaging Plant,Line-02,Swing,S-423,1,Tape Misfeed,Shift Lead
+2025-01-16,Main Packaging Plant,Line-07,Swing,BNP1290,1,Over-dispensing,Machine Operator
+2025-01-17,Main Packaging Plant,Line-01,Swing,BNP1290,1,Damaged Roll,Materials Handler
+2025-01-17,Main Packaging Plant,Line-03,Swing,BNP1290,1,Over-dispensing,Materials Handler
+2025-01-17,Main Packaging Plant,Line-04,Night,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-01-17,Main Packaging Plant,Line-05,Swing,BNP1290,1,Damaged Roll,Shift Lead
+2025-01-18,Main Packaging Plant,Line-05,Night,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-01-18,Main Packaging Plant,Line-06,Day,BNP1290,1,Over-dispensing,Machine Operator
+2025-01-19,Main Packaging Plant,Line-04,Day,BNP1290,1,Damaged Roll,Shift Lead
+2025-01-19,Main Packaging Plant,Line-06,Night,BNP1290,2,Over-dispensing,Machine Operator
+2025-01-19,Main Packaging Plant,Line-07,Swing,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-01-19,Main Packaging Plant,Line-07,Swing,S-423,1,Tape Misfeed,Materials Handler
+2025-01-20,Main Packaging Plant,Line-01,Day,BNP1290,1,over dispensing,Machine Operator
+2025-01-20,Main Packaging Plant,Line-01,Day,GLV-NIT-100,1,Contamination,Machine Operator
+2025-01-20,Main Packaging Plant,Line-07,Swing,S-423,1,Tape misfeed,Materials Handler
+2025-01-21,Main Packaging Plant,Line-03,Day,S-423,1,Tape misfeed,Materials Handler
+2025-01-21,Main Packaging Plant,Line-04,Swing,BNP1290,1,over dispensing,Materials Handler
+2025-01-22,Main Packaging Plant,Line-02,Swing,BNP1290,1,Damaged Roll,Materials Handler
+2025-01-22,Main Packaging Plant,Line-05,Day,BNP1290,1,Incorrect Application,Materials Handler
+2025-01-23,Main Packaging Plant,Line-04,Day,BNP1290,1,over dispensing,Shift Lead
+2025-01-23,Main Packaging Plant,Line-05,Swing,BNP1290,1,over dispensing,Shift Lead
+2025-01-23,Main Packaging Plant,Line-06,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-01-23,Main Packaging Plant,Line-07,Night,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-01-23,Main Packaging Plant,Line-07,Swing,BNP1290,1,Incorrect Application,Machine Operator
+2025-01-23,Main Packaging Plant,Line-07,Swing,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-01-24,Main Packaging Plant,Line-01,Day,S-423,1,Damaged Roll,Shift Lead
+2025-01-24,Main Packaging Plant,Line-06,Night,GLV-NIT-100,1,Damaged Box,Machine Operator
+2025-01-24,Main Packaging Plant,Line-07,Swing,BNP1290,1,over dispensing,Machine Operator
+2025-01-25,Main Packaging Plant,Line-02,Day,BNP1290,2,over dispensing,Machine Operator
+2025-01-25,Main Packaging Plant,Line-03,Night,BNP1290,1,Over-dispensing,Materials Handler
+2025-01-26,Main Packaging Plant,Line-02,Night,BNP1290,1,Damaged Roll,Shift Lead
+2025-01-26,Main Packaging Plant,Line-04,Swing,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-01-26,Main Packaging Plant,Line-07,Night,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-01-27,Main Packaging Plant,Line-04,Day,LBL-4X6-500,1,label misprint,Shift Lead
+2025-01-27,Main Packaging Plant,Line-05,Day,BNP1290,1,Over-dispensing,Machine Operator
+2025-01-27,Main Packaging Plant,Line-06,Night,S-423,1,Damaged Roll,Materials Handler
+2025-01-27,Main Packaging Plant,Line-07,Swing,LBL-4X6-500,1,label misprint,Shift Lead
+2025-01-28,Main Packaging Plant,Line-07,Day,STRAP-12-900,1,Strap Breakage,Shift Lead
+2025-01-29,Main Packaging Plant,Line-01,Night,GLV-NIT-100,1,Damaged Box,Machine Operator
+2025-01-29,Main Packaging Plant,Line-02,Night,BNP1290,1,Damaged Roll,Machine Operator
+2025-01-29,Main Packaging Plant,Line-07,Swing,GLV-NIT-100,1,Contamination,Shift Lead
+2025-01-30,Main Packaging Plant,Line-01,Day,SW-18-1500,1,Incorrect Wrap Tension,Shift Lead
+2025-01-30,Main Packaging Plant,Line-01,Night,BNP1290,1,Over-dispensing,Shift Lead
+2025-01-30,Main Packaging Plant,Line-05,Swing,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-01-31,Main Packaging Plant,Line-01,Day,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-01-31,Main Packaging Plant,Line-04,Night,BNP1290,1,Incorrect Application,Shift Lead
+2025-01-31,Main Packaging Plant,Line-05,Day,LBL-4X6-500,1,label misprint,Materials Handler
+2025-02-01,Main Packaging Plant,Line-02,Day,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-02-01,Main Packaging Plant,Line-05,Night,BNP1290,2,Damaged Roll,Shift Lead
+2025-02-02,Main Packaging Plant,Line-02,Day,BNP1290,1,over dispensing,Materials Handler
+2025-02-04,Main Packaging Plant,Line-01,Day,S-423,1,Incorrect Application,Materials Handler
+2025-02-04,Main Packaging Plant,Line-02,Day,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-02-04,Main Packaging Plant,Line-03,Night,BNP1290,2,over dispensing,Shift Lead
+2025-02-04,Main Packaging Plant,Line-05,Swing,BNP1290,1,Damaged Roll,Shift Lead
+2025-02-04,Main Packaging Plant,Line-05,Swing,S-423,1,Damaged Roll,Machine Operator
+2025-02-05,Main Packaging Plant,Line-03,Night,BNP1290,2,Damaged Roll,Materials Handler
+2025-02-05,Main Packaging Plant,Line-06,Night,GLV-NIT-100,1,Damaged Box,Materials Handler
+2025-02-05,Main Packaging Plant,Line-07,Swing,BNP1290,1,Incorrect Application,Machine Operator
+2025-02-06,Main Packaging Plant,Line-02,Day,SW-18-1500,1,Incorrect Wrap Tension,Machine Operator
+2025-02-06,Main Packaging Plant,Line-04,Night,BNP1290,1,Over-dispensing,Machine Operator
+2025-02-06,Main Packaging Plant,Line-07,Swing,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-02-07,Main Packaging Plant,Line-03,Swing,BNP1290,1,over dispensing,Machine Operator
+2025-02-07,Main Packaging Plant,Line-06,Night,BNP1290,2,over dispensing,Machine Operator
+2025-02-07,Main Packaging Plant,Line-07,Swing,S-423,1,Damaged Roll,Machine Operator
+2025-02-09,Main Packaging Plant,Line-04,Day,S-423,1,Tape Misfeed,Machine Operator
+2025-02-09,Main Packaging Plant,Line-06,Day,BNP1290,2,over dispensing,Materials Handler
+2025-02-10,Main Packaging Plant,Line-02,Night,BNP1290,1,over dispensing,Shift Lead
+2025-02-10,Main Packaging Plant,Line-04,Day,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-02-10,Main Packaging Plant,Line-04,Day,S-423,1,Incorrect Application,Machine Operator
+2025-02-10,Main Packaging Plant,Line-04,Night,SW-18-1500,1,Film Tear,Machine Operator
+2025-02-10,Main Packaging Plant,Line-04,Swing,S-423,1,Incorrect Application,Shift Lead
+2025-02-10,Main Packaging Plant,Line-05,Day,BNP1290,1,Damaged Roll,Machine Operator
+2025-02-10,Main Packaging Plant,Line-07,Day,BNP1290,1,Damaged Roll,Shift Lead
+2025-02-11,Main Packaging Plant,Line-01,Day,BNP1290,1,over dispensing,Machine Operator
+2025-02-11,Main Packaging Plant,Line-01,Night,SW-18-1500,1,Damaged Roll,Materials Handler
+2025-02-11,Main Packaging Plant,Line-02,Night,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-02-11,Main Packaging Plant,Line-02,Night,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-02-11,Main Packaging Plant,Line-03,Night,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-02-11,Main Packaging Plant,Line-05,Night,BNP1290,1,over dispensing,Shift Lead
+2025-02-11,Main Packaging Plant,Line-07,Night,BNP1290,1,Over-dispensing,Materials Handler
+2025-02-12,Main Packaging Plant,Line-04,Night,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-02-12,Main Packaging Plant,Line-07,Night,STRAP-12-900,1,Strap Breakage,Shift Lead
+2025-02-13,Main Packaging Plant,Line-01,Night,BNP1290,1,Over-dispensing,Machine Operator
+2025-02-13,Main Packaging Plant,Line-03,Swing,SW-18-1500,1,Damaged Roll,Materials Handler
+2025-02-13,Main Packaging Plant,Line-04,Night,S-423,1,Tape misfeed,Shift Lead
+2025-02-13,Main Packaging Plant,Line-06,Day,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-02-13,Main Packaging Plant,Line-07,Night,BNP1290,1,Damaged Roll,Materials Handler
+2025-02-13,Main Packaging Plant,Line-07,Swing,STRAP-12-900,1,Strap Breakage,Materials Handler
+2025-02-14,Main Packaging Plant,Line-01,Swing,BNP1290,2,over dispensing,Materials Handler
+2025-02-14,Main Packaging Plant,Line-07,Swing,LBL-4X6-500,1,label misprint,Materials Handler
+2025-02-15,Main Packaging Plant,Line-01,Day,BNP1290,2,Incorrect Application,Shift Lead
+2025-02-15,Main Packaging Plant,Line-02,Swing,BNP1290,1,Over-dispensing,Machine Operator
+2025-02-15,Main Packaging Plant,Line-05,Day,BNP1290,1,Damaged Roll,Machine Operator
+2025-02-16,Main Packaging Plant,Line-01,Day,BNP1290,1,Incorrect Application,Machine Operator
+2025-02-16,Main Packaging Plant,Line-02,Day,BNP1290,1,over dispensing,Materials Handler
+2025-02-16,Main Packaging Plant,Line-02,Night,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-02-16,Main Packaging Plant,Line-07,Night,LBL-4X6-500,1,label misprint,Materials Handler
+2025-02-16,Main Packaging Plant,Line-07,Swing,STRAP-12-900,1,Incorrect Tension,Machine Operator
+2025-02-18,Main Packaging Plant,Line-02,Day,S-423,1,Tape Misfeed,Machine Operator
+2025-02-18,Main Packaging Plant,Line-07,Night,BNP1290,1,Damaged Roll,Shift Lead
+2025-02-19,Main Packaging Plant,Line-01,Day,BNP1290,1,Incorrect Application,Materials Handler
+2025-02-19,Main Packaging Plant,Line-02,Swing,BNP1290,1,Over-dispensing,Materials Handler
+2025-02-19,Main Packaging Plant,Line-06,Day,BNP1290,1,Over-dispensing,Shift Lead
+2025-02-19,Main Packaging Plant,Line-06,Night,GLV-NIT-100,1,Contamination,Machine Operator
+2025-02-19,Main Packaging Plant,Line-06,Swing,BNP1290,1,over dispensing,Materials Handler
+2025-02-20,Main Packaging Plant,Line-06,Night,GLV-NIT-100,1,Damaged Box,Shift Lead
+2025-02-21,Main Packaging Plant,Line-06,Night,BNP1290,1,Damaged Roll,Shift Lead
+2025-02-22,Main Packaging Plant,Line-05,Night,BNP1290,2,over dispensing,Machine Operator
+2025-02-22,Main Packaging Plant,Line-05,Night,STRAP-12-900,1,strap breakage,Materials Handler
+2025-02-22,Main Packaging Plant,Line-06,Day,BNP1290,1,Damaged Roll,Shift Lead
+2025-02-22,Main Packaging Plant,Line-07,Swing,S-423,1,Incorrect Application,Machine Operator
+2025-02-23,Main Packaging Plant,Line-02,Day,BNP1290,1,Incorrect Application,Shift Lead
+2025-02-23,Main Packaging Plant,Line-02,Day,S-423,1,Tape misfeed,Materials Handler
+2025-02-24,Main Packaging Plant,Line-01,Day,BNP1290,1,Incorrect Application,Materials Handler
+2025-02-24,Main Packaging Plant,Line-02,Day,BNP1290,1,over dispensing,Shift Lead
+2025-02-24,Main Packaging Plant,Line-02,Night,SW-18-1500,1,Film Tear,Shift Lead
+2025-02-24,Main Packaging Plant,Line-07,Day,BNP1290,1,Damaged Roll,Shift Lead
+2025-02-25,Main Packaging Plant,Line-07,Night,GLV-NIT-100,1,Damaged Box,Materials Handler
+2025-02-26,Main Packaging Plant,Line-05,Night,S-423,1,Incorrect Application,Shift Lead
+2025-02-27,Main Packaging Plant,Line-05,Swing,STRAP-12-900,1,Incorrect Tension,Shift Lead
+2025-02-28,Main Packaging Plant,Line-05,Swing,BNP1290,1,Damaged Roll,Shift Lead
+2025-02-28,Main Packaging Plant,Line-07,Swing,STRAP-12-900,1,Incorrect Tension,Machine Operator
+2025-03-01,Main Packaging Plant,Line-02,Swing,GLV-NIT-100,1,Contamination,Materials Handler
+2025-03-01,Main Packaging Plant,Line-02,Swing,S-423,1,Damaged Roll,Materials Handler
+2025-03-02,Main Packaging Plant,Line-03,Night,BNP1290,1,Over-dispensing,Materials Handler
+2025-03-02,Main Packaging Plant,Line-04,Day,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-03-03,Main Packaging Plant,Line-02,Night,BNP1290,2,Over-dispensing,Shift Lead
+2025-03-03,Main Packaging Plant,Line-03,Day,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-03-03,Main Packaging Plant,Line-06,Day,BNP1290,1,Incorrect Application,Machine Operator
+2025-03-03,Main Packaging Plant,Line-07,Swing,BNP1290,1,Incorrect Application,Materials Handler
+2025-03-04,Main Packaging Plant,Line-01,Swing,S-423,1,Tape misfeed,Shift Lead
+2025-03-04,Main Packaging Plant,Line-02,Day,S-423,1,Tape misfeed,Shift Lead
+2025-03-04,Main Packaging Plant,Line-03,Night,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-03-05,Main Packaging Plant,Line-03,Swing,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-03-05,Main Packaging Plant,Line-05,Swing,STRAP-12-900,1,Incorrect Tension,Machine Operator
+2025-03-06,Main Packaging Plant,Line-01,Night,BNP1290,2,over dispensing,Machine Operator
+2025-03-06,Main Packaging Plant,Line-04,Night,SW-18-1500,1,Film Tear,Shift Lead
+2025-03-06,Main Packaging Plant,Line-05,Night,BNP1290,1,Damaged Roll,Materials Handler
+2025-03-06,Main Packaging Plant,Line-07,Day,S-423,1,Incorrect Application,Shift Lead
+2025-03-07,Main Packaging Plant,Line-01,Night,BNP1290,1,Over-dispensing,Materials Handler
+2025-03-07,Main Packaging Plant,Line-02,Day,S-423,1,Incorrect Application,Machine Operator
+2025-03-08,Main Packaging Plant,Line-03,Night,S-423,1,Incorrect Application,Shift Lead
+2025-03-08,Main Packaging Plant,Line-04,Day,S-423,1,Damaged Roll,Materials Handler
+2025-03-08,Main Packaging Plant,Line-04,Swing,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-03-08,Main Packaging Plant,Line-05,Day,BNP1290,2,Over-dispensing,Materials Handler
+2025-03-08,Main Packaging Plant,Line-07,Day,S-423,1,Tape Misfeed,Machine Operator
+2025-03-09,Main Packaging Plant,Line-01,Night,BNP1290,1,Damaged Roll,Shift Lead
+2025-03-09,Main Packaging Plant,Line-02,Night,BNP1290,1,Over-dispensing,Shift Lead
+2025-03-09,Main Packaging Plant,Line-06,Day,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-03-09,Main Packaging Plant,Line-06,Night,BNP1290,1,Damaged Roll,Machine Operator
+2025-03-09,Main Packaging Plant,Line-07,Day,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-03-10,Main Packaging Plant,Line-01,Swing,SW-18-1500,1,Film Tear,Shift Lead
+2025-03-10,Main Packaging Plant,Line-02,Swing,S-423,1,Damaged Roll,Materials Handler
+2025-03-10,Main Packaging Plant,Line-03,Swing,LBL-4X6-500,1,label misprint,Machine Operator
+2025-03-10,Main Packaging Plant,Line-04,Swing,GLV-NIT-100,1,Contamination,Machine Operator
+2025-03-10,Main Packaging Plant,Line-07,Night,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-03-12,Main Packaging Plant,Line-05,Day,STRAP-12-900,1,strap breakage,Shift Lead
+2025-03-13,Main Packaging Plant,Line-03,Night,BNP1290,1,over dispensing,Machine Operator
+2025-03-14,Main Packaging Plant,Line-04,Swing,BNP1290,1,over dispensing,Materials Handler
+2025-03-14,Main Packaging Plant,Line-07,Day,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-03-15,Main Packaging Plant,Line-05,Night,S-423,1,Tape misfeed,Shift Lead
+2025-03-16,Main Packaging Plant,Line-02,Swing,BNP1290,1,Damaged Roll,Machine Operator
+2025-03-17,Main Packaging Plant,Line-01,Swing,S-423,1,Incorrect Application,Shift Lead
+2025-03-17,Main Packaging Plant,Line-02,Night,BNP1290,1,Damaged Roll,Machine Operator
+2025-03-18,Main Packaging Plant,Line-02,Night,SW-18-1500,1,Incorrect Wrap Tension,Shift Lead
+2025-03-18,Main Packaging Plant,Line-02,Swing,GLV-NIT-100,1,Damaged Box,Machine Operator
+2025-03-18,Main Packaging Plant,Line-03,Night,BNP1290,1,over dispensing,Shift Lead
+2025-03-18,Main Packaging Plant,Line-03,Night,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-03-19,Main Packaging Plant,Line-01,Night,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-03-19,Main Packaging Plant,Line-01,Swing,BNP1290,1,Over-dispensing,Shift Lead
+2025-03-19,Main Packaging Plant,Line-03,Swing,SW-18-1500,1,Incorrect Wrap Tension,Machine Operator
+2025-03-20,Main Packaging Plant,Line-01,Night,BNP1290,1,Damaged Roll,Machine Operator
+2025-03-20,Main Packaging Plant,Line-02,Night,BNP1290,1,Incorrect Application,Materials Handler
+2025-03-20,Main Packaging Plant,Line-05,Day,STRAP-12-900,1,strap breakage,Shift Lead
+2025-03-21,Main Packaging Plant,Line-06,Night,LBL-4X6-500,1,label misprint,Materials Handler
+2025-03-22,Main Packaging Plant,Line-02,Swing,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-03-22,Main Packaging Plant,Line-05,Night,BNP1290,1,over dispensing,Shift Lead
+2025-03-22,Main Packaging Plant,Line-07,Night,LBL-4X6-500,1,label misprint,Machine Operator
+2025-03-23,Main Packaging Plant,Line-01,Night,BNP1290,1,Over-dispensing,Shift Lead
+2025-03-23,Main Packaging Plant,Line-03,Swing,BNP1290,1,Damaged Roll,Shift Lead
+2025-03-23,Main Packaging Plant,Line-06,Day,BNP1290,1,Over-dispensing,Shift Lead
+2025-03-23,Main Packaging Plant,Line-06,Night,S-423,1,Tape Misfeed,Shift Lead
+2025-03-23,Main Packaging Plant,Line-07,Night,BNP1290,1,Incorrect Application,Shift Lead
+2025-03-24,Main Packaging Plant,Line-01,Swing,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-03-24,Main Packaging Plant,Line-06,Swing,BNP1290,1,Damaged Roll,Machine Operator
+2025-03-25,Main Packaging Plant,Line-02,Night,BNP1290,2,Over-dispensing,Machine Operator
+2025-03-25,Main Packaging Plant,Line-03,Swing,BNP1290,1,Incorrect Application,Materials Handler
+2025-03-25,Main Packaging Plant,Line-05,Swing,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-03-25,Main Packaging Plant,Line-07,Night,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-03-26,Main Packaging Plant,Line-03,Swing,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-03-26,Main Packaging Plant,Line-07,Night,LBL-4X6-500,1,label misprint,Machine Operator
+2025-03-26,Main Packaging Plant,Line-07,Swing,BNP1290,1,Incorrect Application,Machine Operator
+2025-03-26,Main Packaging Plant,Line-07,Swing,GLV-NIT-100,1,Contamination,Shift Lead
+2025-03-27,Main Packaging Plant,Line-07,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-03-28,Main Packaging Plant,Line-02,Night,BNP1290,1,Over-dispensing,Shift Lead
+2025-03-28,Main Packaging Plant,Line-03,Day,BNP1290,2,over dispensing,Materials Handler
+2025-03-28,Main Packaging Plant,Line-06,Night,BNP1290,1,over dispensing,Shift Lead
+2025-03-28,Main Packaging Plant,Line-07,Night,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-03-30,Main Packaging Plant,Line-01,Swing,BNP1290,1,Over-dispensing,Machine Operator
+2025-03-30,Main Packaging Plant,Line-04,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-03-30,Main Packaging Plant,Line-07,Day,LBL-4X6-500,1,label misprint,Materials Handler
+2025-03-30,Main Packaging Plant,Line-07,Swing,STRAP-12-900,1,strap breakage,Materials Handler
+2025-03-31,Main Packaging Plant,Line-04,Day,BNP1290,1,Damaged Roll,Machine Operator
+2025-03-31,Main Packaging Plant,Line-04,Day,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-04-01,Main Packaging Plant,Line-03,Night,BNP1290,1,over dispensing,Machine Operator
+2025-04-01,Main Packaging Plant,Line-03,Night,S-423,1,Incorrect Application,Materials Handler
+2025-04-01,Main Packaging Plant,Line-05,Day,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-04-01,Main Packaging Plant,Line-06,Night,LBL-4X6-500,1,label misprint,Machine Operator
+2025-04-01,Main Packaging Plant,Line-06,Swing,STRAP-12-900,1,Strap Breakage,Shift Lead
+2025-04-01,Main Packaging Plant,Line-07,Day,GLV-NIT-100,1,Contamination,Materials Handler
+2025-04-02,Main Packaging Plant,Line-02,Swing,S-423,1,Damaged Roll,Shift Lead
+2025-04-02,Main Packaging Plant,Line-03,Day,BNP1290,1,Incorrect Application,Materials Handler
+2025-04-02,Main Packaging Plant,Line-06,Swing,STRAP-12-900,1,strap breakage,Machine Operator
+2025-04-02,Main Packaging Plant,Line-07,Swing,STRAP-12-900,1,strap breakage,Materials Handler
+2025-04-03,Main Packaging Plant,Line-02,Night,GLV-NIT-100,1,Contamination,Machine Operator
+2025-04-04,Main Packaging Plant,Line-02,Swing,BNP1290,1,Over-dispensing,Shift Lead
+2025-04-04,Main Packaging Plant,Line-04,Day,S-423,1,Damaged Roll,Materials Handler
+2025-04-05,Main Packaging Plant,Line-04,Day,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-04-05,Main Packaging Plant,Line-07,Day,STRAP-12-900,1,strap breakage,Shift Lead
+2025-04-06,Main Packaging Plant,Line-03,Swing,S-423,1,Tape Misfeed,Machine Operator
+2025-04-06,Main Packaging Plant,Line-04,Day,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-04-06,Main Packaging Plant,Line-05,Day,BNP1290,1,over dispensing,Materials Handler
+2025-04-06,Main Packaging Plant,Line-07,Night,BNP1290,1,Incorrect Application,Shift Lead
+2025-04-09,Main Packaging Plant,Line-02,Day,S-423,1,Incorrect Application,Machine Operator
+2025-04-09,Main Packaging Plant,Line-03,Day,BNP1290,1,Over-dispensing,Materials Handler
+2025-04-09,Main Packaging Plant,Line-05,Night,GLV-NIT-100,1,Contamination,Machine Operator
+2025-04-09,Main Packaging Plant,Line-06,Day,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-04-10,Main Packaging Plant,Line-01,Day,SW-18-1500,1,Damaged Roll,Materials Handler
+2025-04-10,Main Packaging Plant,Line-04,Day,GLV-NIT-100,1,Contamination,Materials Handler
+2025-04-10,Main Packaging Plant,Line-04,Swing,SW-18-1500,1,Film Tear,Machine Operator
+2025-04-10,Main Packaging Plant,Line-07,Day,BNP1290,1,Damaged Roll,Machine Operator
+2025-04-11,Main Packaging Plant,Line-06,Swing,BNP1290,1,over dispensing,Materials Handler
+2025-04-11,Main Packaging Plant,Line-07,Night,BNP1290,1,Damaged Roll,Shift Lead
+2025-04-12,Main Packaging Plant,Line-01,Swing,GLV-NIT-100,1,Damaged Box,Shift Lead
+2025-04-12,Main Packaging Plant,Line-03,Night,SW-18-1500,1,Incorrect Wrap Tension,Shift Lead
+2025-04-12,Main Packaging Plant,Line-06,Night,STRAP-12-900,1,strap breakage,Machine Operator
+2025-04-13,Main Packaging Plant,Line-01,Swing,BNP1290,1,Damaged Roll,Shift Lead
+2025-04-13,Main Packaging Plant,Line-04,Swing,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-04-14,Main Packaging Plant,Line-01,Day,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-04-14,Main Packaging Plant,Line-07,Swing,BNP1290,1,Incorrect Application,Machine Operator
+2025-04-15,Main Packaging Plant,Line-03,Swing,LBL-4X6-500,1,label misprint,Machine Operator
+2025-04-15,Main Packaging Plant,Line-05,Swing,GLV-NIT-100,1,Damaged Box,Machine Operator
+2025-04-16,Main Packaging Plant,Line-02,Day,BNP1290,1,over dispensing,Materials Handler
+2025-04-16,Main Packaging Plant,Line-04,Swing,GLV-NIT-100,1,Contamination,Materials Handler
+2025-04-16,Main Packaging Plant,Line-06,Night,STRAP-12-900,1,strap breakage,Materials Handler
+2025-04-17,Main Packaging Plant,Line-02,Night,BNP1290,1,Damaged Roll,Machine Operator
+2025-04-17,Main Packaging Plant,Line-03,Swing,LBL-4X6-500,1,label misprint,Shift Lead
+2025-04-17,Main Packaging Plant,Line-04,Night,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-04-17,Main Packaging Plant,Line-05,Day,BNP1290,1,over dispensing,Shift Lead
+2025-04-18,Main Packaging Plant,Line-02,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-04-18,Main Packaging Plant,Line-03,Night,GLV-NIT-100,1,Contamination,Materials Handler
+2025-04-18,Main Packaging Plant,Line-03,Swing,BNP1290,1,over dispensing,Shift Lead
+2025-04-18,Main Packaging Plant,Line-06,Day,S-423,1,Tape misfeed,Shift Lead
+2025-04-19,Main Packaging Plant,Line-01,Night,GLV-NIT-100,1,Damaged Box,Shift Lead
+2025-04-19,Main Packaging Plant,Line-04,Night,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-04-20,Main Packaging Plant,Line-03,Day,BNP1290,1,Damaged Roll,Shift Lead
+2025-04-20,Main Packaging Plant,Line-07,Night,STRAP-12-900,1,strap breakage,Machine Operator
+2025-04-21,Main Packaging Plant,Line-06,Day,S-423,1,Tape misfeed,Machine Operator
+2025-04-21,Main Packaging Plant,Line-07,Night,BNP1290,1,Damaged Roll,Machine Operator
+2025-04-22,Main Packaging Plant,Line-06,Day,LBL-4X6-500,1,label misprint,Materials Handler
+2025-04-23,Main Packaging Plant,Line-03,Day,SW-18-1500,1,Film Tear,Materials Handler
+2025-04-23,Main Packaging Plant,Line-04,Swing,BNP1290,1,Damaged Roll,Materials Handler
+2025-04-24,Main Packaging Plant,Line-03,Swing,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-04-24,Main Packaging Plant,Line-05,Day,BNP1290,1,Over-dispensing,Machine Operator
+2025-04-24,Main Packaging Plant,Line-06,Swing,BNP1290,1,over dispensing,Materials Handler
+2025-04-24,Main Packaging Plant,Line-06,Swing,S-423,1,Damaged Roll,Materials Handler
+2025-04-25,Main Packaging Plant,Line-01,Night,LBL-4X6-500,1,label misprint,Shift Lead
+2025-04-25,Main Packaging Plant,Line-04,Night,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-04-25,Main Packaging Plant,Line-07,Day,GLV-NIT-100,1,Contamination,Machine Operator
+2025-04-26,Main Packaging Plant,Line-03,Day,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-04-26,Main Packaging Plant,Line-03,Swing,S-423,1,Damaged Roll,Materials Handler
+2025-04-26,Main Packaging Plant,Line-06,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-04-26,Main Packaging Plant,Line-06,Swing,STRAP-12-900,1,Incorrect Tension,Materials Handler
+2025-04-27,Main Packaging Plant,Line-01,Swing,S-423,1,Tape Misfeed,Materials Handler
+2025-04-28,Main Packaging Plant,Line-01,Day,S-423,1,Incorrect Application,Materials Handler
+2025-04-28,Main Packaging Plant,Line-03,Night,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-04-28,Main Packaging Plant,Line-04,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-04-28,Main Packaging Plant,Line-05,Night,S-423,1,Tape Misfeed,Machine Operator
+2025-04-28,Main Packaging Plant,Line-07,Day,BNP1290,1,over dispensing,Machine Operator
+2025-04-29,Main Packaging Plant,Line-01,Day,BNP1290,1,Damaged Roll,Machine Operator
+2025-04-29,Main Packaging Plant,Line-01,Swing,BNP1290,1,over dispensing,Machine Operator
+2025-04-30,Main Packaging Plant,Line-01,Day,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-04-30,Main Packaging Plant,Line-02,Day,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-04-30,Main Packaging Plant,Line-06,Swing,LBL-4X6-500,1,label misprint,Machine Operator
+2025-04-30,Main Packaging Plant,Line-06,Swing,STRAP-12-900,1,strap breakage,Machine Operator
+2025-04-30,Main Packaging Plant,Line-07,Swing,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-05-01,Main Packaging Plant,Line-02,Day,S-423,1,Incorrect Application,Shift Lead
+2025-05-01,Main Packaging Plant,Line-05,Swing,STRAP-12-900,1,Incorrect Tension,Shift Lead
+2025-05-01,Main Packaging Plant,Line-07,Swing,BNP1290,1,Incorrect Application,Shift Lead
+2025-05-02,Main Packaging Plant,Line-04,Night,BNP1290,1,Over-dispensing,Machine Operator
+2025-05-02,Main Packaging Plant,Line-07,Night,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-05-03,Main Packaging Plant,Line-05,Night,S-423,1,Incorrect Application,Shift Lead
+2025-05-03,Main Packaging Plant,Line-06,Swing,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-05-04,Main Packaging Plant,Line-02,Day,S-423,1,Tape misfeed,Shift Lead
+2025-05-04,Main Packaging Plant,Line-02,Night,GLV-NIT-100,1,Damaged Box,Shift Lead
+2025-05-05,Main Packaging Plant,Line-01,Day,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-05-05,Main Packaging Plant,Line-02,Swing,SW-18-1500,1,Film Tear,Shift Lead
+2025-05-05,Main Packaging Plant,Line-03,Swing,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-05-05,Main Packaging Plant,Line-04,Swing,SW-18-1500,1,Film Tear,Machine Operator
+2025-05-05,Main Packaging Plant,Line-07,Day,GLV-NIT-100,1,Contamination,Machine Operator
+2025-05-05,Main Packaging Plant,Line-07,Day,STRAP-12-900,1,strap breakage,Shift Lead
+2025-05-06,Main Packaging Plant,Line-02,Night,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-05-06,Main Packaging Plant,Line-04,Night,S-423,1,Tape misfeed,Machine Operator
+2025-05-06,Main Packaging Plant,Line-06,Swing,BNP1290,1,Damaged Roll,Machine Operator
+2025-05-07,Main Packaging Plant,Line-02,Day,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-05-07,Main Packaging Plant,Line-03,Day,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-05-08,Main Packaging Plant,Line-03,Day,SW-18-1500,1,Incorrect Wrap Tension,Shift Lead
+2025-05-09,Main Packaging Plant,Line-02,Night,S-423,1,Tape misfeed,Machine Operator
+2025-05-09,Main Packaging Plant,Line-02,Night,SW-18-1500,1,Incorrect Wrap Tension,Machine Operator
+2025-05-09,Main Packaging Plant,Line-03,Day,SW-18-1500,1,Damaged Roll,Materials Handler
+2025-05-10,Main Packaging Plant,Line-01,Night,GLV-NIT-100,1,Contamination,Machine Operator
+2025-05-10,Main Packaging Plant,Line-03,Night,S-423,1,Incorrect Application,Machine Operator
+2025-05-10,Main Packaging Plant,Line-04,Night,S-423,1,Tape misfeed,Materials Handler
+2025-05-10,Main Packaging Plant,Line-04,Night,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-05-10,Main Packaging Plant,Line-07,Day,BNP1290,1,Over-dispensing,Machine Operator
+2025-05-10,Main Packaging Plant,Line-07,Day,STRAP-12-900,1,Strap Breakage,Shift Lead
+2025-05-11,Main Packaging Plant,Line-02,Day,SW-18-1500,1,Incorrect Wrap Tension,Shift Lead
+2025-05-11,Main Packaging Plant,Line-04,Day,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-05-11,Main Packaging Plant,Line-04,Swing,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-05-11,Main Packaging Plant,Line-06,Swing,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-05-12,Main Packaging Plant,Line-06,Night,BNP1290,1,Incorrect Application,Shift Lead
+2025-05-13,Main Packaging Plant,Line-02,Night,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-05-13,Main Packaging Plant,Line-02,Swing,BNP1290,1,over dispensing,Shift Lead
+2025-05-13,Main Packaging Plant,Line-03,Day,SW-18-1500,1,Film Tear,Machine Operator
+2025-05-13,Main Packaging Plant,Line-07,Night,S-423,1,Tape misfeed,Machine Operator
+2025-05-14,Main Packaging Plant,Line-01,Day,BNP1290,1,over dispensing,Shift Lead
+2025-05-14,Main Packaging Plant,Line-01,Swing,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-05-14,Main Packaging Plant,Line-03,Night,BNP1290,1,Damaged Roll,Shift Lead
+2025-05-14,Main Packaging Plant,Line-06,Night,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-05-15,Main Packaging Plant,Line-02,Swing,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-05-15,Main Packaging Plant,Line-04,Night,SW-18-1500,1,Incorrect Wrap Tension,Machine Operator
+2025-05-15,Main Packaging Plant,Line-05,Swing,S-423,1,Tape Misfeed,Shift Lead
+2025-05-16,Main Packaging Plant,Line-04,Night,SW-18-1500,1,Film Tear,Machine Operator
+2025-05-16,Main Packaging Plant,Line-05,Swing,BNP1290,1,Over-dispensing,Machine Operator
+2025-05-17,Main Packaging Plant,Line-02,Swing,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-05-17,Main Packaging Plant,Line-04,Night,GLV-NIT-100,1,Contamination,Materials Handler
+2025-05-18,Main Packaging Plant,Line-01,Swing,SW-18-1500,1,Film Tear,Machine Operator
+2025-05-18,Main Packaging Plant,Line-06,Night,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-05-18,Main Packaging Plant,Line-06,Swing,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-05-19,Main Packaging Plant,Line-02,Swing,BNP1290,1,Incorrect Application,Machine Operator
+2025-05-20,Main Packaging Plant,Line-01,Night,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-05-20,Main Packaging Plant,Line-03,Swing,SW-18-1500,1,Film Tear,Machine Operator
+2025-05-20,Main Packaging Plant,Line-04,Swing,SW-18-1500,1,Incorrect Wrap Tension,Shift Lead
+2025-05-20,Main Packaging Plant,Line-05,Swing,BNP1290,1,Incorrect Application,Machine Operator
+2025-05-20,Main Packaging Plant,Line-06,Night,STRAP-12-900,1,strap breakage,Shift Lead
+2025-05-21,Main Packaging Plant,Line-07,Night,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-05-22,Main Packaging Plant,Line-01,Swing,LBL-4X6-500,1,label misprint,Materials Handler
+2025-05-22,Main Packaging Plant,Line-04,Night,BNP1290,1,Over-dispensing,Machine Operator
+2025-05-23,Main Packaging Plant,Line-01,Day,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-05-23,Main Packaging Plant,Line-06,Day,STRAP-12-900,1,strap breakage,Shift Lead
+2025-05-23,Main Packaging Plant,Line-06,Swing,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-05-24,Main Packaging Plant,Line-01,Day,S-423,1,Tape Misfeed,Materials Handler
+2025-05-24,Main Packaging Plant,Line-04,Swing,LBL-4X6-500,1,label misprint,Machine Operator
+2025-05-24,Main Packaging Plant,Line-04,Swing,S-423,1,Damaged Roll,Shift Lead
+2025-05-24,Main Packaging Plant,Line-06,Day,BNP1290,1,over dispensing,Machine Operator
+2025-05-24,Main Packaging Plant,Line-06,Night,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-05-24,Main Packaging Plant,Line-06,Swing,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-05-25,Main Packaging Plant,Line-04,Night,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-05-25,Main Packaging Plant,Line-04,Swing,BNP1290,1,over dispensing,Shift Lead
+2025-05-25,Main Packaging Plant,Line-07,Day,S-423,1,Damaged Roll,Machine Operator
+2025-05-26,Main Packaging Plant,Line-02,Swing,S-423,1,Damaged Roll,Materials Handler
+2025-05-26,Main Packaging Plant,Line-07,Swing,GLV-NIT-100,1,Contamination,Materials Handler
+2025-05-27,Main Packaging Plant,Line-03,Day,S-423,1,Damaged Roll,Machine Operator
+2025-05-27,Main Packaging Plant,Line-07,Day,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-05-28,Main Packaging Plant,Line-06,Day,S-423,1,Damaged Roll,Machine Operator
+2025-05-28,Main Packaging Plant,Line-06,Swing,BNP1290,1,Damaged Roll,Shift Lead
+2025-05-28,Main Packaging Plant,Line-07,Swing,BNP1290,1,over dispensing,Machine Operator
+2025-05-29,Main Packaging Plant,Line-01,Swing,SW-18-1500,1,Film Tear,Materials Handler
+2025-05-29,Main Packaging Plant,Line-02,Swing,BNP1290,1,Damaged Roll,Materials Handler
+2025-05-29,Main Packaging Plant,Line-02,Swing,LBL-4X6-500,1,label misprint,Materials Handler
+2025-05-29,Main Packaging Plant,Line-04,Day,BNP1290,1,Over-dispensing,Materials Handler
+2025-05-30,Main Packaging Plant,Line-01,Day,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-05-30,Main Packaging Plant,Line-01,Swing,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-05-30,Main Packaging Plant,Line-02,Swing,GLV-NIT-100,1,Damaged Box,Materials Handler
+2025-05-30,Main Packaging Plant,Line-05,Night,BNP1290,1,Incorrect Application,Materials Handler
+2025-05-30,Main Packaging Plant,Line-07,Night,GLV-NIT-100,1,Contamination,Materials Handler
+2025-05-31,Main Packaging Plant,Line-03,Day,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-05-31,Main Packaging Plant,Line-03,Night,S-423,1,Tape Misfeed,Machine Operator
+2025-05-31,Main Packaging Plant,Line-04,Day,BNP1290,1,Incorrect Application,Materials Handler
+2025-05-31,Main Packaging Plant,Line-06,Day,BNP1290,1,Over-dispensing,Shift Lead
+2025-05-31,Main Packaging Plant,Line-07,Day,GLV-NIT-100,1,Contamination,Shift Lead
+2025-06-01,Main Packaging Plant,Line-07,Night,LBL-4X6-500,1,label misprint,Machine Operator
+2025-06-02,Main Packaging Plant,Line-01,Day,SW-18-1500,1,Film Tear,Materials Handler
+2025-06-02,Main Packaging Plant,Line-03,Night,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-06-03,Main Packaging Plant,Line-02,Day,S-423,1,Tape misfeed,Materials Handler
+2025-06-03,Main Packaging Plant,Line-03,Night,SW-18-1500,1,Incorrect Wrap Tension,Machine Operator
+2025-06-03,Main Packaging Plant,Line-07,Swing,STRAP-12-900,1,Incorrect Tension,Shift Lead
+2025-06-04,Main Packaging Plant,Line-01,Night,SW-18-1500,1,Incorrect Wrap Tension,Machine Operator
+2025-06-04,Main Packaging Plant,Line-01,Swing,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-06-04,Main Packaging Plant,Line-03,Swing,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-06-04,Main Packaging Plant,Line-05,Night,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-06-05,Main Packaging Plant,Line-01,Swing,LBL-4X6-500,1,label misprint,Materials Handler
+2025-06-05,Main Packaging Plant,Line-03,Swing,BNP1290,1,Over-dispensing,Machine Operator
+2025-06-05,Main Packaging Plant,Line-04,Night,LBL-4X6-500,1,label misprint,Materials Handler
+2025-06-05,Main Packaging Plant,Line-05,Day,STRAP-12-900,1,Incorrect Tension,Machine Operator
+2025-06-06,Main Packaging Plant,Line-03,Day,S-423,1,Tape Misfeed,Shift Lead
+2025-06-07,Main Packaging Plant,Line-05,Swing,STRAP-12-900,1,Incorrect Tension,Shift Lead
+2025-06-07,Main Packaging Plant,Line-06,Night,BNP1290,1,Damaged Roll,Materials Handler
+2025-06-07,Main Packaging Plant,Line-06,Swing,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-06-08,Main Packaging Plant,Line-06,Day,STRAP-12-900,1,Strap Breakage,Materials Handler
+2025-06-08,Main Packaging Plant,Line-06,Swing,STRAP-12-900,1,Incorrect Tension,Materials Handler
+2025-06-09,Main Packaging Plant,Line-01,Day,BNP1290,1,Damaged Roll,Materials Handler
+2025-06-09,Main Packaging Plant,Line-01,Day,S-423,1,Tape misfeed,Shift Lead
+2025-06-10,Main Packaging Plant,Line-01,Swing,LBL-4X6-500,1,label misprint,Shift Lead
+2025-06-12,Main Packaging Plant,Line-03,Day,LBL-4X6-500,1,label misprint,Shift Lead
+2025-06-12,Main Packaging Plant,Line-07,Night,S-423,1,Tape misfeed,Materials Handler
+2025-06-12,Main Packaging Plant,Line-07,Swing,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-06-13,Main Packaging Plant,Line-01,Night,S-423,1,Incorrect Application,Machine Operator
+2025-06-13,Main Packaging Plant,Line-01,Night,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-06-13,Main Packaging Plant,Line-02,Night,GLV-NIT-100,1,Contamination,Materials Handler
+2025-06-13,Main Packaging Plant,Line-05,Night,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-06-14,Main Packaging Plant,Line-05,Swing,S-423,1,Tape Misfeed,Machine Operator
+2025-06-15,Main Packaging Plant,Line-01,Swing,S-423,1,Incorrect Application,Materials Handler
+2025-06-15,Main Packaging Plant,Line-02,Night,S-423,1,Tape misfeed,Materials Handler
+2025-06-15,Main Packaging Plant,Line-03,Swing,S-423,1,Tape Misfeed,Machine Operator
+2025-06-15,Main Packaging Plant,Line-04,Night,S-423,1,Incorrect Application,Machine Operator
+2025-06-16,Main Packaging Plant,Line-01,Night,SW-18-1500,1,Damaged Roll,Materials Handler
+2025-06-17,Main Packaging Plant,Line-07,Swing,S-423,1,Tape Misfeed,Machine Operator
+2025-06-18,Main Packaging Plant,Line-02,Day,BNP1290,1,Over-dispensing,Shift Lead
+2025-06-19,Main Packaging Plant,Line-01,Night,GLV-NIT-100,1,Damaged Box,Materials Handler
+2025-06-19,Main Packaging Plant,Line-01,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-06-19,Main Packaging Plant,Line-03,Swing,SW-18-1500,1,Incorrect Wrap Tension,Shift Lead
+2025-06-19,Main Packaging Plant,Line-04,Day,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-06-19,Main Packaging Plant,Line-04,Swing,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-06-20,Main Packaging Plant,Line-02,Swing,BNP1290,1,Over-dispensing,Materials Handler
+2025-06-20,Main Packaging Plant,Line-03,Swing,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-06-20,Main Packaging Plant,Line-06,Night,BNP1290,1,over dispensing,Materials Handler
+2025-06-20,Main Packaging Plant,Line-07,Day,BNP1290,1,Damaged Roll,Materials Handler
+2025-06-21,Main Packaging Plant,Line-05,Night,STRAP-12-900,1,Strap Breakage,Machine Operator
+2025-06-22,Main Packaging Plant,Line-07,Swing,BNP1290,1,Over-dispensing,Machine Operator
+2025-06-23,Main Packaging Plant,Line-01,Night,S-423,1,Incorrect Application,Shift Lead
+2025-06-23,Main Packaging Plant,Line-03,Night,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-06-23,Main Packaging Plant,Line-05,Day,BNP1290,1,over dispensing,Shift Lead
+2025-06-24,Main Packaging Plant,Line-03,Swing,BNP1290,1,Damaged Roll,Materials Handler
+2025-06-24,Main Packaging Plant,Line-05,Swing,GLV-NIT-100,1,Contamination,Shift Lead
+2025-06-24,Main Packaging Plant,Line-06,Swing,S-423,1,Tape Misfeed,Shift Lead
+2025-06-24,Main Packaging Plant,Line-07,Day,STRAP-12-900,1,Strap Breakage,Shift Lead
+2025-06-24,Main Packaging Plant,Line-07,Night,S-423,1,Damaged Roll,Machine Operator
+2025-06-25,Main Packaging Plant,Line-03,Night,SW-18-1500,1,Incorrect Wrap Tension,Materials Handler
+2025-06-26,Main Packaging Plant,Line-01,Day,S-423,1,Incorrect Application,Machine Operator
+2025-06-26,Main Packaging Plant,Line-01,Day,SW-18-1500,1,Incorrect Wrap Tension,Machine Operator
+2025-06-26,Main Packaging Plant,Line-02,Night,BNP1290,1,Incorrect Application,Shift Lead
+2025-06-26,Main Packaging Plant,Line-03,Swing,S-423,1,Incorrect Application,Shift Lead
+2025-06-27,Main Packaging Plant,Line-01,Night,BNP1290,1,over dispensing,Shift Lead
+2025-06-27,Main Packaging Plant,Line-02,Night,S-423,1,Damaged Roll,Materials Handler
+2025-06-28,Main Packaging Plant,Line-01,Day,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-06-28,Main Packaging Plant,Line-02,Day,LBL-4X6-500,1,label misprint,Machine Operator
+2025-06-28,Main Packaging Plant,Line-05,Night,LBL-4X6-500,1,label misprint,Shift Lead
+2025-06-28,Main Packaging Plant,Line-07,Night,STRAP-12-900,1,Strap Breakage,Materials Handler
+2025-06-29,Main Packaging Plant,Line-01,Night,SW-18-1500,1,Incorrect Wrap Tension,Machine Operator
+2025-06-29,Main Packaging Plant,Line-04,Day,GLV-NIT-100,1,Contamination,Machine Operator
+2025-06-29,Main Packaging Plant,Line-06,Day,STRAP-12-900,1,strap breakage,Machine Operator
+2025-06-29,Main Packaging Plant,Line-07,Night,BNP1290,1,Damaged Roll,Materials Handler
+2025-06-29,Main Packaging Plant,Line-07,Swing,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-06-30,Main Packaging Plant,Line-03,Day,S-423,1,Damaged Roll,Shift Lead
+2025-06-30,Main Packaging Plant,Line-07,Swing,GLV-NIT-100,1,Contamination,Shift Lead
+2025-07-01,Main Packaging Plant,Line-02,Swing,S-423,1,Tape Misfeed,Materials Handler
+2025-07-01,Main Packaging Plant,Line-06,Day,GLV-NIT-100,1,Damaged Box,Shift Lead
+2025-07-01,Main Packaging Plant,Line-07,Day,STRAP-12-900,1,Incorrect Tension,Shift Lead
+2025-07-02,Main Packaging Plant,Line-06,Night,BNP1290,1,over dispensing,Materials Handler
+2025-07-02,Main Packaging Plant,Line-07,Swing,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-07-03,Main Packaging Plant,Line-01,Swing,S-423,1,Damaged Roll,Materials Handler
+2025-07-03,Main Packaging Plant,Line-02,Night,S-423,1,Tape misfeed,Materials Handler
+2025-07-03,Main Packaging Plant,Line-04,Swing,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-07-04,Main Packaging Plant,Line-02,Swing,BNP1290,1,over dispensing,Machine Operator
+2025-07-04,Main Packaging Plant,Line-03,Day,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-07-04,Main Packaging Plant,Line-05,Day,STRAP-12-900,1,Incorrect Tension,Shift Lead
+2025-07-04,Main Packaging Plant,Line-07,Swing,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-07-04,Main Packaging Plant,Line-07,Swing,STRAP-12-900,1,Strap Breakage,Shift Lead
+2025-07-05,Main Packaging Plant,Line-01,Swing,S-423,1,Tape Misfeed,Materials Handler
+2025-07-05,Main Packaging Plant,Line-04,Day,S-423,1,Tape misfeed,Shift Lead
+2025-07-06,Main Packaging Plant,Line-02,Day,S-423,1,Damaged Roll,Materials Handler
+2025-07-06,Main Packaging Plant,Line-04,Night,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-07-06,Main Packaging Plant,Line-05,Night,S-423,1,Damaged Roll,Materials Handler
+2025-07-06,Main Packaging Plant,Line-07,Night,STRAP-12-900,1,strap breakage,Shift Lead
+2025-07-07,Main Packaging Plant,Line-01,Night,GLV-NIT-100,1,Contamination,Shift Lead
+2025-07-07,Main Packaging Plant,Line-03,Night,BNP1290,1,Over-dispensing,Shift Lead
+2025-07-07,Main Packaging Plant,Line-03,Night,SW-18-1500,1,Damaged Roll,Materials Handler
+2025-07-07,Main Packaging Plant,Line-04,Day,BNP1290,1,Over-dispensing,Machine Operator
+2025-07-08,Main Packaging Plant,Line-02,Day,BNP1290,1,Over-dispensing,Machine Operator
+2025-07-08,Main Packaging Plant,Line-03,Day,GLV-NIT-100,1,Contamination,Machine Operator
+2025-07-08,Main Packaging Plant,Line-03,Night,SW-18-1500,1,Incorrect Wrap Tension,Shift Lead
+2025-07-09,Main Packaging Plant,Line-02,Day,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-07-09,Main Packaging Plant,Line-03,Swing,S-423,1,Incorrect Application,Machine Operator
+2025-07-09,Main Packaging Plant,Line-05,Night,LBL-4X6-500,1,label misprint,Materials Handler
+2025-07-10,Main Packaging Plant,Line-01,Day,BNP1290,1,Damaged Roll,Materials Handler
+2025-07-10,Main Packaging Plant,Line-01,Day,S-423,1,Incorrect Application,Materials Handler
+2025-07-10,Main Packaging Plant,Line-01,Swing,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-07-10,Main Packaging Plant,Line-04,Swing,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-07-10,Main Packaging Plant,Line-07,Swing,LBL-4X6-500,1,label misprint,Machine Operator
+2025-07-11,Main Packaging Plant,Line-04,Swing,SW-18-1500,1,Film Tear,Shift Lead
+2025-07-11,Main Packaging Plant,Line-05,Night,S-423,1,Incorrect Application,Materials Handler
+2025-07-12,Main Packaging Plant,Line-02,Day,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-07-12,Main Packaging Plant,Line-05,Swing,STRAP-12-900,1,Incorrect Tension,Shift Lead
+2025-07-12,Main Packaging Plant,Line-06,Swing,S-423,1,Incorrect Application,Materials Handler
+2025-07-13,Main Packaging Plant,Line-02,Day,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-07-13,Main Packaging Plant,Line-02,Night,BNP1290,1,Damaged Roll,Materials Handler
+2025-07-13,Main Packaging Plant,Line-02,Swing,S-423,1,Tape Misfeed,Shift Lead
+2025-07-13,Main Packaging Plant,Line-03,Day,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-07-13,Main Packaging Plant,Line-06,Night,S-423,1,Incorrect Application,Machine Operator
+2025-07-14,Main Packaging Plant,Line-05,Night,GLV-NIT-100,1,Damaged Box,Materials Handler
+2025-07-15,Main Packaging Plant,Line-02,Day,S-423,1,Tape Misfeed,Materials Handler
+2025-07-15,Main Packaging Plant,Line-03,Day,S-423,1,Incorrect Application,Machine Operator
+2025-07-15,Main Packaging Plant,Line-06,Day,BNP1290,1,Incorrect Application,Shift Lead
+2025-07-15,Main Packaging Plant,Line-06,Night,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-07-15,Main Packaging Plant,Line-06,Night,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-07-15,Main Packaging Plant,Line-06,Swing,GLV-NIT-100,1,Contamination,Materials Handler
+2025-07-16,Main Packaging Plant,Line-06,Swing,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-07-17,Main Packaging Plant,Line-05,Day,STRAP-12-900,1,strap breakage,Shift Lead
+2025-07-17,Main Packaging Plant,Line-07,Swing,S-423,1,Incorrect Application,Shift Lead
+2025-07-18,Main Packaging Plant,Line-06,Swing,STRAP-12-900,1,Incorrect Tension,Materials Handler
+2025-07-18,Main Packaging Plant,Line-07,Swing,GLV-NIT-100,1,Damaged Box,Machine Operator
+2025-07-19,Main Packaging Plant,Line-01,Day,S-423,1,Tape Misfeed,Shift Lead
+2025-07-19,Main Packaging Plant,Line-02,Swing,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-07-19,Main Packaging Plant,Line-05,Night,BNP1290,1,Over-dispensing,Materials Handler
+2025-07-19,Main Packaging Plant,Line-05,Night,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-07-20,Main Packaging Plant,Line-05,Night,BNP1290,1,over dispensing,Machine Operator
+2025-07-20,Main Packaging Plant,Line-05,Night,S-423,1,Tape Misfeed,Materials Handler
+2025-07-21,Main Packaging Plant,Line-04,Swing,BNP1290,1,Damaged Roll,Machine Operator
+2025-07-21,Main Packaging Plant,Line-06,Day,S-423,1,Damaged Roll,Machine Operator
+2025-07-22,Main Packaging Plant,Line-04,Swing,SW-18-1500,1,Film Tear,Shift Lead
+2025-07-23,Main Packaging Plant,Line-05,Swing,S-423,1,Incorrect Application,Materials Handler
+2025-07-23,Main Packaging Plant,Line-06,Swing,BNP1290,1,Over-dispensing,Shift Lead
+2025-07-24,Main Packaging Plant,Line-01,Swing,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-07-24,Main Packaging Plant,Line-06,Day,BNP1290,1,Incorrect Application,Materials Handler
+2025-07-25,Main Packaging Plant,Line-02,Night,BNP1290,1,over dispensing,Shift Lead
+2025-07-25,Main Packaging Plant,Line-03,Day,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-07-25,Main Packaging Plant,Line-07,Day,S-423,1,Damaged Roll,Shift Lead
+2025-07-26,Main Packaging Plant,Line-02,Night,GLV-NIT-100,1,Damaged Box,Materials Handler
+2025-07-27,Main Packaging Plant,Line-01,Swing,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-07-27,Main Packaging Plant,Line-02,Swing,BNP1290,1,Damaged Roll,Shift Lead
+2025-07-27,Main Packaging Plant,Line-02,Swing,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-07-29,Main Packaging Plant,Line-04,Night,LBL-4X6-500,1,label misprint,Machine Operator
+2025-07-30,Main Packaging Plant,Line-02,Swing,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-07-30,Main Packaging Plant,Line-05,Day,STRAP-12-900,1,strap breakage,Machine Operator
+2025-07-31,Main Packaging Plant,Line-03,Night,BNP1290,1,Damaged Roll,Machine Operator
+2025-08-01,Main Packaging Plant,Line-01,Night,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-08-01,Main Packaging Plant,Line-05,Swing,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-08-01,Main Packaging Plant,Line-06,Night,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-08-02,Main Packaging Plant,Line-05,Night,S-423,1,Incorrect Application,Materials Handler
+2025-08-03,Main Packaging Plant,Line-01,Day,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-08-03,Main Packaging Plant,Line-04,Day,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-08-03,Main Packaging Plant,Line-05,Swing,BNP1290,1,Damaged Roll,Shift Lead
+2025-08-03,Main Packaging Plant,Line-06,Swing,STRAP-12-900,1,Strap Breakage,Shift Lead
+2025-08-03,Main Packaging Plant,Line-07,Night,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-08-04,Main Packaging Plant,Line-03,Night,SW-18-1500,1,Film Tear,Shift Lead
+2025-08-04,Main Packaging Plant,Line-04,Night,S-423,1,Tape misfeed,Materials Handler
+2025-08-04,Main Packaging Plant,Line-06,Swing,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-08-05,Main Packaging Plant,Line-02,Day,S-423,1,Incorrect Application,Shift Lead
+2025-08-05,Main Packaging Plant,Line-05,Swing,S-423,1,Damaged Roll,Materials Handler
+2025-08-05,Main Packaging Plant,Line-06,Swing,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-08-05,Main Packaging Plant,Line-07,Swing,S-423,1,Tape Misfeed,Machine Operator
+2025-08-06,Main Packaging Plant,Line-04,Swing,BNP1290,1,over dispensing,Shift Lead
+2025-08-06,Main Packaging Plant,Line-04,Swing,S-423,1,Tape misfeed,Shift Lead
+2025-08-06,Main Packaging Plant,Line-06,Day,STRAP-12-900,1,Incorrect Tension,Shift Lead
+2025-08-07,Main Packaging Plant,Line-01,Swing,SW-18-1500,1,Incorrect Wrap Tension,Shift Lead
+2025-08-07,Main Packaging Plant,Line-03,Swing,BNP1290,1,over dispensing,Shift Lead
+2025-08-07,Main Packaging Plant,Line-04,Night,BNP1290,1,Damaged Roll,Machine Operator
+2025-08-07,Main Packaging Plant,Line-07,Night,GLV-NIT-100,1,Damaged Box,Shift Lead
+2025-08-09,Main Packaging Plant,Line-04,Swing,BNP1290,1,over dispensing,Shift Lead
+2025-08-09,Main Packaging Plant,Line-06,Night,BNP1290,1,Damaged Roll,Shift Lead
+2025-08-10,Main Packaging Plant,Line-01,Day,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-08-10,Main Packaging Plant,Line-02,Swing,SW-18-1500,1,Film Tear,Machine Operator
+2025-08-10,Main Packaging Plant,Line-03,Swing,SW-18-1500,1,Incorrect Wrap Tension,Machine Operator
+2025-08-10,Main Packaging Plant,Line-05,Night,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-08-10,Main Packaging Plant,Line-05,Night,S-423,1,Damaged Roll,Materials Handler
+2025-08-10,Main Packaging Plant,Line-06,Day,S-423,1,Incorrect Application,Machine Operator
+2025-08-11,Main Packaging Plant,Line-01,Night,S-423,1,Incorrect Application,Shift Lead
+2025-08-11,Main Packaging Plant,Line-04,Swing,GLV-NIT-100,1,Damaged Box,Shift Lead
+2025-08-11,Main Packaging Plant,Line-05,Night,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-08-12,Main Packaging Plant,Line-04,Swing,GLV-NIT-100,1,Damaged Box,Materials Handler
+2025-08-13,Main Packaging Plant,Line-01,Day,BNP1290,1,over dispensing,Materials Handler
+2025-08-13,Main Packaging Plant,Line-03,Swing,BNP1290,1,over dispensing,Machine Operator
+2025-08-13,Main Packaging Plant,Line-07,Day,S-423,1,Damaged Roll,Shift Lead
+2025-08-14,Main Packaging Plant,Line-06,Swing,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-08-15,Main Packaging Plant,Line-06,Swing,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-08-15,Main Packaging Plant,Line-06,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-08-16,Main Packaging Plant,Line-02,Swing,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-08-16,Main Packaging Plant,Line-04,Day,S-423,1,Incorrect Application,Machine Operator
+2025-08-16,Main Packaging Plant,Line-05,Swing,STRAP-12-900,1,strap breakage,Shift Lead
+2025-08-17,Main Packaging Plant,Line-02,Swing,SW-18-1500,1,Film Tear,Shift Lead
+2025-08-17,Main Packaging Plant,Line-05,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-08-18,Main Packaging Plant,Line-05,Day,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-08-18,Main Packaging Plant,Line-06,Night,GLV-NIT-100,1,Contamination,Machine Operator
+2025-08-19,Main Packaging Plant,Line-06,Day,BNP1290,1,over dispensing,Shift Lead
+2025-08-20,Main Packaging Plant,Line-01,Day,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-08-20,Main Packaging Plant,Line-02,Day,LBL-4X6-500,1,label misprint,Machine Operator
+2025-08-20,Main Packaging Plant,Line-05,Night,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-08-21,Main Packaging Plant,Line-04,Night,SW-18-1500,1,Incorrect Wrap Tension,Machine Operator
+2025-08-21,Main Packaging Plant,Line-06,Night,S-423,1,Damaged Roll,Materials Handler
+2025-08-21,Main Packaging Plant,Line-07,Day,S-423,1,Damaged Roll,Shift Lead
+2025-08-22,Main Packaging Plant,Line-03,Swing,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-08-22,Main Packaging Plant,Line-04,Day,GLV-NIT-100,1,Contamination,Shift Lead
+2025-08-22,Main Packaging Plant,Line-06,Day,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-08-23,Main Packaging Plant,Line-01,Night,GLV-NIT-100,1,Contamination,Machine Operator
+2025-08-23,Main Packaging Plant,Line-02,Day,SW-18-1500,1,Incorrect Wrap Tension,Shift Lead
+2025-08-23,Main Packaging Plant,Line-02,Night,S-423,1,Incorrect Application,Shift Lead
+2025-08-23,Main Packaging Plant,Line-03,Day,S-423,1,Tape Misfeed,Machine Operator
+2025-08-23,Main Packaging Plant,Line-06,Day,GLV-NIT-100,1,Damaged Box,Shift Lead
+2025-08-24,Main Packaging Plant,Line-03,Night,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-08-25,Main Packaging Plant,Line-01,Night,S-423,1,Damaged Roll,Shift Lead
+2025-08-25,Main Packaging Plant,Line-05,Night,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-08-26,Main Packaging Plant,Line-06,Night,BNP1290,1,Incorrect Application,Shift Lead
+2025-08-26,Main Packaging Plant,Line-07,Day,STRAP-12-900,1,strap breakage,Materials Handler
+2025-08-27,Main Packaging Plant,Line-03,Day,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-08-27,Main Packaging Plant,Line-07,Night,GLV-NIT-100,1,Contamination,Machine Operator
+2025-08-28,Main Packaging Plant,Line-02,Night,S-423,1,Incorrect Application,Shift Lead
+2025-08-28,Main Packaging Plant,Line-04,Swing,SW-18-1500,1,Film Tear,Shift Lead
+2025-08-29,Main Packaging Plant,Line-02,Day,S-423,1,Tape misfeed,Materials Handler
+2025-08-29,Main Packaging Plant,Line-03,Swing,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-08-29,Main Packaging Plant,Line-06,Night,S-423,1,Damaged Roll,Machine Operator
+2025-08-29,Main Packaging Plant,Line-07,Swing,S-423,1,Tape Misfeed,Shift Lead
+2025-08-30,Main Packaging Plant,Line-03,Day,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-08-30,Main Packaging Plant,Line-04,Swing,BNP1290,1,Over-dispensing,Machine Operator
+2025-08-30,Main Packaging Plant,Line-06,Night,LBL-4X6-500,1,label misprint,Machine Operator
+2025-08-31,Main Packaging Plant,Line-01,Day,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-08-31,Main Packaging Plant,Line-01,Swing,GLV-NIT-100,1,Damaged Box,Machine Operator
+2025-08-31,Main Packaging Plant,Line-03,Day,BNP1290,1,Damaged Roll,Materials Handler
+2025-09-01,Main Packaging Plant,Line-01,Swing,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-09-02,Main Packaging Plant,Line-01,Swing,BNP1290,1,Over-dispensing,Machine Operator
+2025-09-03,Main Packaging Plant,Line-06,Night,BNP1290,1,Over-dispensing,Shift Lead
+2025-09-04,Main Packaging Plant,Line-05,Night,GLV-NIT-100,1,Contamination,Shift Lead
+2025-09-04,Main Packaging Plant,Line-07,Day,BNP1290,1,over dispensing,Materials Handler
+2025-09-05,Main Packaging Plant,Line-01,Swing,S-423,1,Tape misfeed,Materials Handler
+2025-09-05,Main Packaging Plant,Line-02,Swing,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-09-05,Main Packaging Plant,Line-03,Night,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-09-05,Main Packaging Plant,Line-04,Day,S-423,1,Tape Misfeed,Shift Lead
+2025-09-05,Main Packaging Plant,Line-04,Night,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-09-05,Main Packaging Plant,Line-06,Swing,STRAP-12-900,1,strap breakage,Shift Lead
+2025-09-06,Main Packaging Plant,Line-03,Swing,BNP1290,1,over dispensing,Materials Handler
+2025-09-06,Main Packaging Plant,Line-04,Swing,S-423,1,Damaged Roll,Shift Lead
+2025-09-06,Main Packaging Plant,Line-06,Night,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-09-06,Main Packaging Plant,Line-06,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-09-07,Main Packaging Plant,Line-02,Day,S-423,1,Incorrect Application,Materials Handler
+2025-09-07,Main Packaging Plant,Line-02,Night,BNP1290,1,over dispensing,Shift Lead
+2025-09-07,Main Packaging Plant,Line-02,Swing,GLV-NIT-100,1,Damaged Box,Machine Operator
+2025-09-07,Main Packaging Plant,Line-03,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-09-07,Main Packaging Plant,Line-03,Swing,SW-18-1500,1,Film Tear,Machine Operator
+2025-09-07,Main Packaging Plant,Line-04,Night,SW-18-1500,1,Incorrect Wrap Tension,Shift Lead
+2025-09-07,Main Packaging Plant,Line-04,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-09-08,Main Packaging Plant,Line-01,Day,BNP1290,1,over dispensing,Machine Operator
+2025-09-08,Main Packaging Plant,Line-04,Swing,BNP1290,1,Damaged Roll,Materials Handler
+2025-09-08,Main Packaging Plant,Line-04,Swing,S-423,1,Tape Misfeed,Machine Operator
+2025-09-08,Main Packaging Plant,Line-05,Night,STRAP-12-900,1,strap breakage,Shift Lead
+2025-09-09,Main Packaging Plant,Line-01,Day,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-09-09,Main Packaging Plant,Line-01,Day,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-09-09,Main Packaging Plant,Line-02,Swing,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-09-09,Main Packaging Plant,Line-06,Day,GLV-NIT-100,1,Contamination,Materials Handler
+2025-09-09,Main Packaging Plant,Line-06,Night,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-09-09,Main Packaging Plant,Line-07,Swing,S-423,1,Tape Misfeed,Machine Operator
+2025-09-10,Main Packaging Plant,Line-02,Night,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-09-10,Main Packaging Plant,Line-03,Day,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-09-11,Main Packaging Plant,Line-04,Day,S-423,1,Tape Misfeed,Machine Operator
+2025-09-11,Main Packaging Plant,Line-05,Day,S-423,1,Tape misfeed,Shift Lead
+2025-09-12,Main Packaging Plant,Line-02,Day,BNP1290,1,Over-dispensing,Materials Handler
+2025-09-12,Main Packaging Plant,Line-03,Night,S-423,1,Tape misfeed,Materials Handler
+2025-09-13,Main Packaging Plant,Line-01,Day,SW-18-1500,1,Incorrect Wrap Tension,Machine Operator
+2025-09-13,Main Packaging Plant,Line-01,Night,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-09-13,Main Packaging Plant,Line-03,Swing,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-09-13,Main Packaging Plant,Line-06,Night,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-09-13,Main Packaging Plant,Line-07,Day,STRAP-12-900,1,Strap Breakage,Materials Handler
+2025-09-14,Main Packaging Plant,Line-01,Day,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-09-14,Main Packaging Plant,Line-02,Swing,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-09-14,Main Packaging Plant,Line-04,Swing,BNP1290,1,Damaged Roll,Materials Handler
+2025-09-15,Main Packaging Plant,Line-01,Night,GLV-NIT-100,1,Contamination,Materials Handler
+2025-09-15,Main Packaging Plant,Line-03,Night,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-09-15,Main Packaging Plant,Line-04,Day,GLV-NIT-100,1,Contamination,Materials Handler
+2025-09-15,Main Packaging Plant,Line-06,Night,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-09-15,Main Packaging Plant,Line-06,Night,STRAP-12-900,1,strap breakage,Shift Lead
+2025-09-15,Main Packaging Plant,Line-06,Swing,GLV-NIT-100,1,Damaged Box,Shift Lead
+2025-09-16,Main Packaging Plant,Line-02,Swing,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-09-16,Main Packaging Plant,Line-04,Day,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-09-16,Main Packaging Plant,Line-04,Night,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-09-17,Main Packaging Plant,Line-01,Day,BNP1290,1,Incorrect Application,Machine Operator
+2025-09-17,Main Packaging Plant,Line-02,Day,BNP1290,1,Damaged Roll,Shift Lead
+2025-09-17,Main Packaging Plant,Line-03,Day,S-423,1,Tape Misfeed,Machine Operator
+2025-09-18,Main Packaging Plant,Line-04,Day,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-09-18,Main Packaging Plant,Line-07,Swing,S-423,1,Damaged Roll,Machine Operator
+2025-09-19,Main Packaging Plant,Line-02,Day,SW-18-1500,1,Incorrect Wrap Tension,Shift Lead
+2025-09-19,Main Packaging Plant,Line-02,Night,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-09-19,Main Packaging Plant,Line-04,Day,BNP1290,1,Damaged Roll,Materials Handler
+2025-09-20,Main Packaging Plant,Line-02,Night,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-09-21,Main Packaging Plant,Line-03,Night,SW-18-1500,1,Incorrect Wrap Tension,Machine Operator
+2025-09-22,Main Packaging Plant,Line-01,Day,S-423,1,Damaged Roll,Materials Handler
+2025-09-22,Main Packaging Plant,Line-01,Night,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-09-22,Main Packaging Plant,Line-01,Swing,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-09-22,Main Packaging Plant,Line-06,Day,BNP1290,1,over dispensing,Machine Operator
+2025-09-23,Main Packaging Plant,Line-01,Day,S-423,1,Incorrect Application,Materials Handler
+2025-09-23,Main Packaging Plant,Line-03,Swing,LBL-4X6-500,1,label misprint,Machine Operator
+2025-09-23,Main Packaging Plant,Line-05,Night,S-423,1,Tape Misfeed,Materials Handler
+2025-09-23,Main Packaging Plant,Line-06,Day,STRAP-12-900,1,Incorrect Tension,Shift Lead
+2025-09-24,Main Packaging Plant,Line-01,Swing,BNP1290,1,over dispensing,Shift Lead
+2025-09-24,Main Packaging Plant,Line-03,Swing,BNP1290,1,Damaged Roll,Shift Lead
+2025-09-24,Main Packaging Plant,Line-04,Swing,GLV-NIT-100,1,Contamination,Shift Lead
+2025-09-24,Main Packaging Plant,Line-06,Night,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-09-24,Main Packaging Plant,Line-06,Night,STRAP-12-900,1,strap breakage,Machine Operator
+2025-09-25,Main Packaging Plant,Line-03,Swing,BNP1290,1,Over-dispensing,Materials Handler
+2025-09-25,Main Packaging Plant,Line-04,Swing,S-423,1,Damaged Roll,Machine Operator
+2025-09-25,Main Packaging Plant,Line-07,Night,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-09-26,Main Packaging Plant,Line-03,Swing,LBL-4X6-500,1,label misprint,Shift Lead
+2025-09-26,Main Packaging Plant,Line-04,Night,S-423,1,Damaged Roll,Machine Operator
+2025-09-26,Main Packaging Plant,Line-05,Swing,GLV-NIT-100,1,Contamination,Materials Handler
+2025-09-27,Main Packaging Plant,Line-03,Day,SW-18-1500,1,Film Tear,Shift Lead
+2025-09-27,Main Packaging Plant,Line-03,Swing,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-09-27,Main Packaging Plant,Line-05,Day,S-423,1,Damaged Roll,Shift Lead
+2025-09-27,Main Packaging Plant,Line-05,Night,STRAP-12-900,1,Strap Breakage,Shift Lead
+2025-09-28,Main Packaging Plant,Line-01,Night,BNP1290,1,Damaged Roll,Materials Handler
+2025-09-28,Main Packaging Plant,Line-01,Night,S-423,1,Tape misfeed,Machine Operator
+2025-09-28,Main Packaging Plant,Line-02,Swing,SW-18-1500,1,Film Tear,Materials Handler
+2025-09-28,Main Packaging Plant,Line-04,Day,SW-18-1500,1,Incorrect Wrap Tension,Shift Lead
+2025-09-28,Main Packaging Plant,Line-05,Day,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-09-28,Main Packaging Plant,Line-07,Swing,BNP1290,1,Incorrect Application,Shift Lead
+2025-09-29,Main Packaging Plant,Line-05,Day,S-423,1,Damaged Roll,Shift Lead
+2025-09-30,Main Packaging Plant,Line-01,Swing,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-09-30,Main Packaging Plant,Line-03,Day,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-09-30,Main Packaging Plant,Line-04,Day,GLV-NIT-100,1,Contamination,Materials Handler
+2025-10-01,Main Packaging Plant,Line-03,Day,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-10-01,Main Packaging Plant,Line-07,Swing,S-423,1,Damaged Roll,Shift Lead
+2025-10-03,Main Packaging Plant,Line-03,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-10-03,Main Packaging Plant,Line-06,Swing,BNP1290,1,over dispensing,Materials Handler
+2025-10-03,Main Packaging Plant,Line-07,Night,LBL-4X6-500,1,label misprint,Machine Operator
+2025-10-04,Main Packaging Plant,Line-01,Swing,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-10-04,Main Packaging Plant,Line-06,Swing,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-10-05,Main Packaging Plant,Line-01,Night,LBL-4X6-500,1,label misprint,Machine Operator
+2025-10-05,Main Packaging Plant,Line-04,Night,SW-18-1500,1,Incorrect Wrap Tension,Machine Operator
+2025-10-05,Main Packaging Plant,Line-06,Night,BNP1290,1,over dispensing,Materials Handler
+2025-10-07,Main Packaging Plant,Line-01,Swing,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-10-07,Main Packaging Plant,Line-02,Day,BNP1290,1,Incorrect Application,Shift Lead
+2025-10-07,Main Packaging Plant,Line-06,Night,S-423,1,Damaged Roll,Shift Lead
+2025-10-07,Main Packaging Plant,Line-06,Night,STRAP-12-900,1,Incorrect Tension,Shift Lead
+2025-10-08,Main Packaging Plant,Line-01,Night,BNP1290,1,Incorrect Application,Machine Operator
+2025-10-08,Main Packaging Plant,Line-02,Swing,S-423,1,Tape misfeed,Machine Operator
+2025-10-08,Main Packaging Plant,Line-03,Day,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-10-09,Main Packaging Plant,Line-02,Swing,BNP1290,1,over dispensing,Materials Handler
+2025-10-09,Main Packaging Plant,Line-05,Swing,S-423,1,Incorrect Application,Machine Operator
+2025-10-09,Main Packaging Plant,Line-07,Day,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-10-10,Main Packaging Plant,Line-05,Day,BNP1290,1,Damaged Roll,Machine Operator
+2025-10-10,Main Packaging Plant,Line-07,Night,S-423,1,Tape Misfeed,Shift Lead
+2025-10-11,Main Packaging Plant,Line-01,Day,BNP1290,1,Incorrect Application,Machine Operator
+2025-10-11,Main Packaging Plant,Line-02,Night,SW-18-1500,1,Film Tear,Machine Operator
+2025-10-11,Main Packaging Plant,Line-03,Swing,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-10-11,Main Packaging Plant,Line-04,Night,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-10-11,Main Packaging Plant,Line-06,Night,S-423,1,Tape misfeed,Shift Lead
+2025-10-13,Main Packaging Plant,Line-01,Day,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-10-13,Main Packaging Plant,Line-01,Night,BNP1290,1,over dispensing,Machine Operator
+2025-10-13,Main Packaging Plant,Line-04,Day,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-10-13,Main Packaging Plant,Line-04,Night,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-10-13,Main Packaging Plant,Line-07,Swing,BNP1290,1,over dispensing,Materials Handler
+2025-10-14,Main Packaging Plant,Line-05,Swing,LBL-4X6-500,1,label misprint,Materials Handler
+2025-10-14,Main Packaging Plant,Line-06,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-10-15,Main Packaging Plant,Line-02,Day,BNP1290,1,Incorrect Application,Shift Lead
+2025-10-15,Main Packaging Plant,Line-07,Swing,S-423,1,Tape Misfeed,Machine Operator
+2025-10-16,Main Packaging Plant,Line-01,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-10-16,Main Packaging Plant,Line-03,Night,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-10-16,Main Packaging Plant,Line-03,Night,S-423,1,Incorrect Application,Machine Operator
+2025-10-17,Main Packaging Plant,Line-05,Night,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-10-17,Main Packaging Plant,Line-05,Swing,BNP1290,1,Over-dispensing,Shift Lead
+2025-10-17,Main Packaging Plant,Line-07,Swing,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-10-18,Main Packaging Plant,Line-02,Night,SW-18-1500,1,Film Tear,Materials Handler
+2025-10-19,Main Packaging Plant,Line-04,Night,S-423,1,Incorrect Application,Shift Lead
+2025-10-20,Main Packaging Plant,Line-02,Day,BNP1290,1,Over-dispensing,Machine Operator
+2025-10-20,Main Packaging Plant,Line-02,Swing,S-423,1,Incorrect Application,Materials Handler
+2025-10-20,Main Packaging Plant,Line-03,Day,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-10-20,Main Packaging Plant,Line-04,Day,BNP1290,1,Over-dispensing,Machine Operator
+2025-10-21,Main Packaging Plant,Line-01,Day,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-10-21,Main Packaging Plant,Line-04,Day,S-423,1,Tape Misfeed,Shift Lead
+2025-10-21,Main Packaging Plant,Line-05,Swing,STRAP-12-900,1,strap breakage,Shift Lead
+2025-10-22,Main Packaging Plant,Line-01,Day,S-423,1,Tape Misfeed,Shift Lead
+2025-10-22,Main Packaging Plant,Line-03,Day,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-10-23,Main Packaging Plant,Line-03,Day,SW-18-1500,1,Film Tear,Shift Lead
+2025-10-23,Main Packaging Plant,Line-04,Swing,SW-18-1500,1,Incorrect Wrap Tension,Shift Lead
+2025-10-24,Main Packaging Plant,Line-06,Swing,STRAP-12-900,1,Incorrect Tension,Shift Lead
+2025-10-25,Main Packaging Plant,Line-01,Swing,S-423,1,Damaged Roll,Materials Handler
+2025-10-25,Main Packaging Plant,Line-01,Swing,SW-18-1500,1,Film Tear,Shift Lead
+2025-10-25,Main Packaging Plant,Line-04,Swing,BNP1290,1,Incorrect Application,Materials Handler
+2025-10-25,Main Packaging Plant,Line-05,Night,BNP1290,1,Damaged Roll,Materials Handler
+2025-10-25,Main Packaging Plant,Line-05,Night,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-10-26,Main Packaging Plant,Line-04,Night,LBL-4X6-500,1,label misprint,Shift Lead
+2025-10-26,Main Packaging Plant,Line-06,Swing,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-10-27,Main Packaging Plant,Line-04,Swing,BNP1290,1,Over-dispensing,Machine Operator
+2025-10-27,Main Packaging Plant,Line-06,Night,BNP1290,1,over dispensing,Materials Handler
+2025-10-28,Main Packaging Plant,Line-03,Swing,SW-18-1500,1,Incorrect Wrap Tension,Materials Handler
+2025-10-28,Main Packaging Plant,Line-04,Night,GLV-NIT-100,1,Damaged Box,Materials Handler
+2025-10-28,Main Packaging Plant,Line-06,Day,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-10-29,Main Packaging Plant,Line-01,Swing,GLV-NIT-100,1,Damaged Box,Shift Lead
+2025-10-29,Main Packaging Plant,Line-05,Day,GLV-NIT-100,1,Contamination,Materials Handler
+2025-10-30,Main Packaging Plant,Line-01,Night,LBL-4X6-500,1,label misprint,Machine Operator
+2025-10-30,Main Packaging Plant,Line-07,Night,STRAP-12-900,1,strap breakage,Shift Lead
+2025-10-31,Main Packaging Plant,Line-01,Night,SW-18-1500,1,Damaged Roll,Materials Handler
+2025-10-31,Main Packaging Plant,Line-03,Swing,SW-18-1500,1,Incorrect Wrap Tension,Machine Operator
+2025-11-01,Main Packaging Plant,Line-07,Swing,STRAP-12-900,1,strap breakage,Machine Operator
+2025-11-02,Main Packaging Plant,Line-02,Swing,LBL-4X6-500,1,label misprint,Shift Lead
+2025-11-02,Main Packaging Plant,Line-05,Day,LBL-4X6-500,1,Printer Jam,Materials Handler
+2025-11-02,Main Packaging Plant,Line-06,Swing,STRAP-12-900,1,Incorrect Tension,Shift Lead
+2025-11-03,Main Packaging Plant,Line-04,Swing,S-423,1,Damaged Roll,Materials Handler
+2025-11-03,Main Packaging Plant,Line-07,Day,LBL-4X6-500,1,label misprint,Shift Lead
+2025-11-05,Main Packaging Plant,Line-02,Night,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-11-05,Main Packaging Plant,Line-05,Night,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-11-05,Main Packaging Plant,Line-05,Swing,BNP1290,1,Damaged Roll,Materials Handler
+2025-11-05,Main Packaging Plant,Line-07,Night,GLV-NIT-100,1,Contamination,Machine Operator
+2025-11-06,Main Packaging Plant,Line-02,Night,GLV-NIT-100,1,Contamination,Machine Operator
+2025-11-06,Main Packaging Plant,Line-04,Night,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-11-06,Main Packaging Plant,Line-05,Day,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-11-06,Main Packaging Plant,Line-06,Day,STRAP-12-900,1,Incorrect Tension,Machine Operator
+2025-11-07,Main Packaging Plant,Line-01,Day,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-11-07,Main Packaging Plant,Line-04,Night,BNP1290,1,over dispensing,Shift Lead
+2025-11-08,Main Packaging Plant,Line-01,Day,SW-18-1500,1,Incorrect Wrap Tension,Shift Lead
+2025-11-08,Main Packaging Plant,Line-05,Day,STRAP-12-900,1,strap breakage,Shift Lead
+2025-11-08,Main Packaging Plant,Line-07,Day,GLV-NIT-100,1,Contamination,Machine Operator
+2025-11-08,Main Packaging Plant,Line-07,Swing,BNP1290,1,Incorrect Application,Shift Lead
+2025-11-08,Main Packaging Plant,Line-07,Swing,STRAP-12-900,1,strap breakage,Materials Handler
+2025-11-09,Main Packaging Plant,Line-03,Night,GLV-NIT-100,1,Contamination,Machine Operator
+2025-11-09,Main Packaging Plant,Line-06,Day,S-423,1,Tape misfeed,Machine Operator
+2025-11-10,Main Packaging Plant,Line-02,Day,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-11-10,Main Packaging Plant,Line-04,Day,LBL-4X6-500,1,label misprint,Machine Operator
+2025-11-10,Main Packaging Plant,Line-07,Swing,GLV-NIT-100,1,Damaged Box,Materials Handler
+2025-11-13,Main Packaging Plant,Line-01,Night,GLV-NIT-100,1,Contamination,Machine Operator
+2025-11-13,Main Packaging Plant,Line-02,Night,BNP1290,1,Damaged Roll,Shift Lead
+2025-11-13,Main Packaging Plant,Line-03,Day,S-423,1,Tape misfeed,Shift Lead
+2025-11-13,Main Packaging Plant,Line-07,Night,GLV-NIT-100,1,Contamination,Shift Lead
+2025-11-14,Main Packaging Plant,Line-02,Night,BNP1290,1,Damaged Roll,Machine Operator
+2025-11-14,Main Packaging Plant,Line-03,Day,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-11-15,Main Packaging Plant,Line-01,Day,BNP1290,1,Incorrect Application,Materials Handler
+2025-11-15,Main Packaging Plant,Line-05,Day,STRAP-12-900,1,Strap Breakage,Shift Lead
+2025-11-15,Main Packaging Plant,Line-05,Night,BNP1290,1,Over-dispensing,Shift Lead
+2025-11-16,Main Packaging Plant,Line-01,Night,SW-18-1500,1,Film Tear,Shift Lead
+2025-11-16,Main Packaging Plant,Line-02,Day,S-423,1,Incorrect Application,Machine Operator
+2025-11-16,Main Packaging Plant,Line-07,Night,BNP1290,1,Over-dispensing,Shift Lead
+2025-11-17,Main Packaging Plant,Line-01,Night,BNP1290,1,over dispensing,Shift Lead
+2025-11-17,Main Packaging Plant,Line-03,Day,BNP1290,1,Damaged Roll,Shift Lead
+2025-11-18,Main Packaging Plant,Line-01,Swing,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-11-18,Main Packaging Plant,Line-03,Swing,LBL-4X6-500,1,label misprint,Materials Handler
+2025-11-18,Main Packaging Plant,Line-04,Swing,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-11-18,Main Packaging Plant,Line-06,Day,LBL-4X6-500,1,label misprint,Materials Handler
+2025-11-19,Main Packaging Plant,Line-05,Day,STRAP-12-900,1,strap breakage,Shift Lead
+2025-11-19,Main Packaging Plant,Line-05,Swing,STRAP-12-900,1,Strap Breakage,Shift Lead
+2025-11-19,Main Packaging Plant,Line-07,Swing,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-11-20,Main Packaging Plant,Line-02,Night,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-11-21,Main Packaging Plant,Line-05,Swing,BNP1290,1,Over-dispensing,Materials Handler
+2025-11-21,Main Packaging Plant,Line-05,Swing,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-11-22,Main Packaging Plant,Line-01,Night,SW-18-1500,1,Incorrect Wrap Tension,Machine Operator
+2025-11-22,Main Packaging Plant,Line-05,Day,STRAP-12-900,1,Incorrect Tension,Shift Lead
+2025-11-22,Main Packaging Plant,Line-06,Swing,BNP1290,1,over dispensing,Machine Operator
+2025-11-22,Main Packaging Plant,Line-07,Night,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-11-23,Main Packaging Plant,Line-04,Day,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-11-23,Main Packaging Plant,Line-04,Day,S-423,1,Damaged Roll,Shift Lead
+2025-11-24,Main Packaging Plant,Line-03,Night,LBL-4X6-500,1,label misprint,Shift Lead
+2025-11-26,Main Packaging Plant,Line-03,Night,GLV-NIT-100,1,Damaged Box,Machine Operator
+2025-11-27,Main Packaging Plant,Line-01,Swing,BNP1290,1,over dispensing,Machine Operator
+2025-11-27,Main Packaging Plant,Line-04,Swing,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-11-27,Main Packaging Plant,Line-05,Day,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-11-28,Main Packaging Plant,Line-05,Night,STRAP-12-900,1,strap breakage,Shift Lead
+2025-11-28,Main Packaging Plant,Line-07,Swing,S-423,1,Incorrect Application,Machine Operator
+2025-11-29,Main Packaging Plant,Line-01,Day,S-423,1,Damaged Roll,Machine Operator
+2025-11-29,Main Packaging Plant,Line-02,Day,GLV-NIT-100,1,Damaged Box,Machine Operator
+2025-11-29,Main Packaging Plant,Line-02,Swing,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-11-29,Main Packaging Plant,Line-04,Swing,BNP1290,1,Over-dispensing,Shift Lead
+2025-11-29,Main Packaging Plant,Line-06,Day,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-11-30,Main Packaging Plant,Line-02,Night,S-423,1,Incorrect Application,Materials Handler
+2025-11-30,Main Packaging Plant,Line-02,Swing,S-423,1,Incorrect Application,Materials Handler
+2025-11-30,Main Packaging Plant,Line-04,Night,S-423,1,Incorrect Application,Materials Handler
+2025-11-30,Main Packaging Plant,Line-06,Swing,GLV-NIT-100,1,Damaged Box,Machine Operator
+2025-11-30,Main Packaging Plant,Line-07,Day,BNP1290,1,Incorrect Application,Shift Lead
+2025-11-30,Main Packaging Plant,Line-07,Day,S-423,1,Damaged Roll,Machine Operator
+2025-12-01,Main Packaging Plant,Line-01,Day,BNP1290,1,Damaged Roll,Materials Handler
+2025-12-01,Main Packaging Plant,Line-02,Night,BNP1290,1,Incorrect Application,Materials Handler
+2025-12-02,Main Packaging Plant,Line-01,Swing,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-12-03,Main Packaging Plant,Line-01,Night,GLV-NIT-100,1,Contamination,Machine Operator
+2025-12-03,Main Packaging Plant,Line-01,Night,S-423,1,Tape misfeed,Materials Handler
+2025-12-03,Main Packaging Plant,Line-02,Swing,LBL-4X6-500,1,Label Misprint,Machine Operator
+2025-12-03,Main Packaging Plant,Line-03,Day,SW-18-1500,1,Film Tear,Shift Lead
+2025-12-03,Main Packaging Plant,Line-04,Night,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-12-03,Main Packaging Plant,Line-06,Swing,BNP1290,1,Incorrect Application,Materials Handler
+2025-12-04,Main Packaging Plant,Line-06,Night,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-12-05,Main Packaging Plant,Line-01,Day,BNP1290,1,Damaged Roll,Materials Handler
+2025-12-05,Main Packaging Plant,Line-02,Swing,BNP1290,1,Over-dispensing,Materials Handler
+2025-12-05,Main Packaging Plant,Line-04,Night,S-423,1,Tape Misfeed,Shift Lead
+2025-12-05,Main Packaging Plant,Line-05,Day,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-12-05,Main Packaging Plant,Line-06,Day,STRAP-12-900,1,Strap Breakage,Materials Handler
+2025-12-07,Main Packaging Plant,Line-04,Day,GLV-NIT-100,1,Damaged Box,Machine Operator
+2025-12-07,Main Packaging Plant,Line-05,Night,LBL-4X6-500,1,label misprint,Machine Operator
+2025-12-08,Main Packaging Plant,Line-03,Day,GLV-NIT-100,1,Contamination,Shift Lead
+2025-12-08,Main Packaging Plant,Line-03,Night,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-12-09,Main Packaging Plant,Line-05,Night,GLV-NIT-100,1,Contamination,Shift Lead
+2025-12-09,Main Packaging Plant,Line-06,Night,S-423,1,Incorrect Application,Materials Handler
+2025-12-11,Main Packaging Plant,Line-03,Night,GLV-NIT-100,1,Damaged Box,Machine Operator
+2025-12-12,Main Packaging Plant,Line-05,Night,S-423,1,Tape misfeed,Shift Lead
+2025-12-13,Main Packaging Plant,Line-06,Night,BNP1290,1,Over-dispensing,Materials Handler
+2025-12-14,Main Packaging Plant,Line-01,Day,LBL-4X6-500,1,label misprint,Materials Handler
+2025-12-14,Main Packaging Plant,Line-03,Day,GLV-NIT-100,1,Damaged Box,Machine Operator
+2025-12-14,Main Packaging Plant,Line-03,Day,S-423,1,Damaged Roll,Shift Lead
+2025-12-14,Main Packaging Plant,Line-03,Day,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-12-14,Main Packaging Plant,Line-03,Night,S-423,1,Incorrect Application,Shift Lead
+2025-12-15,Main Packaging Plant,Line-04,Night,BNP1290,1,Damaged Roll,Materials Handler
+2025-12-15,Main Packaging Plant,Line-06,Day,BNP1290,1,Incorrect Application,Materials Handler
+2025-12-15,Main Packaging Plant,Line-06,Swing,STRAP-12-900,1,Strap Breakage,Shift Lead
+2025-12-16,Main Packaging Plant,Line-01,Day,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-12-16,Main Packaging Plant,Line-02,Swing,SW-18-1500,1,Film Tear,Materials Handler
+2025-12-16,Main Packaging Plant,Line-06,Night,STRAP-12-900,1,Strap Breakage,Shift Lead
+2025-12-16,Main Packaging Plant,Line-07,Day,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-12-16,Main Packaging Plant,Line-07,Night,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-12-17,Main Packaging Plant,Line-02,Day,BNP1290,1,Damaged Roll,Machine Operator
+2025-12-17,Main Packaging Plant,Line-03,Day,GLV-NIT-100,1,Incorrect Size Issue,Shift Lead
+2025-12-18,Main Packaging Plant,Line-01,Night,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-12-18,Main Packaging Plant,Line-01,Swing,S-423,1,Tape misfeed,Materials Handler
+2025-12-18,Main Packaging Plant,Line-04,Night,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-12-18,Main Packaging Plant,Line-05,Night,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-12-19,Main Packaging Plant,Line-06,Day,BNP1290,1,over dispensing,Shift Lead
+2025-12-20,Main Packaging Plant,Line-01,Night,BNP1290,1,Damaged Roll,Shift Lead
+2025-12-20,Main Packaging Plant,Line-02,Swing,S-423,1,Incorrect Application,Shift Lead
+2025-12-20,Main Packaging Plant,Line-03,Day,GLV-NIT-100,1,Contamination,Machine Operator
+2025-12-20,Main Packaging Plant,Line-03,Night,S-423,1,Tape misfeed,Shift Lead
+2025-12-20,Main Packaging Plant,Line-07,Night,GLV-NIT-100,1,Incorrect Size Issue,Materials Handler
+2025-12-21,Main Packaging Plant,Line-02,Day,GLV-NIT-100,1,Damaged Box,Machine Operator
+2025-12-21,Main Packaging Plant,Line-02,Day,S-423,1,Incorrect Application,Shift Lead
+2025-12-21,Main Packaging Plant,Line-05,Swing,STRAP-12-900,1,Incorrect Tension,Shift Lead
+2025-12-22,Main Packaging Plant,Line-03,Day,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-12-22,Main Packaging Plant,Line-04,Night,LBL-4X6-500,1,Printer Jam,Shift Lead
+2025-12-22,Main Packaging Plant,Line-04,Night,SW-18-1500,1,Damaged Roll,Shift Lead
+2025-12-22,Main Packaging Plant,Line-06,Day,GLV-NIT-100,1,Damaged Box,Machine Operator
+2025-12-22,Main Packaging Plant,Line-07,Day,BNP1290,1,Damaged Roll,Shift Lead
+2025-12-23,Main Packaging Plant,Line-03,Day,GLV-NIT-100,1,Contamination,Materials Handler
+2025-12-23,Main Packaging Plant,Line-04,Day,S-423,1,Tape Misfeed,Machine Operator
+2025-12-24,Main Packaging Plant,Line-04,Day,SW-18-1500,1,Film Tear,Materials Handler
+2025-12-25,Main Packaging Plant,Line-01,Night,S-423,1,Tape Misfeed,Machine Operator
+2025-12-25,Main Packaging Plant,Line-03,Swing,LBL-4X6-500,1,Label Misprint,Materials Handler
+2025-12-25,Main Packaging Plant,Line-04,Day,S-423,1,Incorrect Application,Shift Lead
+2025-12-25,Main Packaging Plant,Line-05,Night,STRAP-12-900,1,Strap Breakage,Shift Lead
+2025-12-26,Main Packaging Plant,Line-02,Swing,S-423,1,Tape misfeed,Machine Operator
+2025-12-26,Main Packaging Plant,Line-04,Day,BNP1290,1,over dispensing,Machine Operator
+2025-12-26,Main Packaging Plant,Line-05,Day,BNP1290,1,Over-dispensing,Materials Handler
+2025-12-26,Main Packaging Plant,Line-06,Night,BNP1290,1,Over-dispensing,Machine Operator
+2025-12-26,Main Packaging Plant,Line-07,Swing,BNP1290,1,Incorrect Application,Machine Operator
+2025-12-27,Main Packaging Plant,Line-02,Night,BNP1290,1,over dispensing,Materials Handler
+2025-12-27,Main Packaging Plant,Line-04,Day,BNP1290,1,Damaged Roll,Shift Lead
+2025-12-27,Main Packaging Plant,Line-04,Day,SW-18-1500,1,Damaged Roll,Machine Operator
+2025-12-27,Main Packaging Plant,Line-07,Night,S-423,1,Tape Misfeed,Machine Operator
+2025-12-28,Main Packaging Plant,Line-01,Day,S-423,1,Tape misfeed,Machine Operator
+2025-12-28,Main Packaging Plant,Line-06,Night,S-423,1,Tape Misfeed,Machine Operator
+2025-12-28,Main Packaging Plant,Line-06,Swing,BNP1290,1,over dispensing,Materials Handler
+2025-12-29,Main Packaging Plant,Line-03,Day,S-423,1,Damaged Roll,Shift Lead
+2025-12-29,Main Packaging Plant,Line-05,Swing,GLV-NIT-100,1,Incorrect Size Issue,Machine Operator
+2025-12-29,Main Packaging Plant,Line-06,Swing,STRAP-12-900,1,strap breakage,Shift Lead
+2025-12-30,Main Packaging Plant,Line-06,Swing,LBL-4X6-500,1,Label Misprint,Shift Lead
+2025-12-31,Main Packaging Plant,Line-01,Day,GLV-NIT-100,1,Contamination,Shift Lead
+2025-12-31,Main Packaging Plant,Line-01,Swing,LBL-4X6-500,1,Printer Jam,Machine Operator
+2025-12-31,Main Packaging Plant,Line-02,Swing,SW-18-1500,1,Film Tear,Materials Handler
+2025-12-31,Main Packaging Plant,Line-03,Swing,S-423,1,Tape Misfeed,Machine Operator
+2025-12-31,Main Packaging Plant,Line-05,Swing,BNP1290,1,Damaged Roll,Machine Operator
+2025-12-31,Main Packaging Plant,Line-06,Day,STRAP-12-900,1,Incorrect Tension,Machine Operator
