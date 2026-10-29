@@ -4,7 +4,7 @@
 
 The Tableau dashboard shows total waste cost, savings opportunities, material-level waste, and monthly trends.
 
-![Factory Waste Reduction Tableau Dashboard](dashboard/factory_waste_dashboard1.png.png)
+![Factory Waste Reduction Tableau Dashboard](dashboard/factory_waste_dash3.png)
 ## Business question
 
 **How much money could a packaging factory save by reducing material waste?**
@@ -49,7 +49,6 @@ Data coverage is January–December 2025 and January–March 2026. The project d
 5. Calculate waste cost and 30% / 50% reduction scenarios.
 6. Connect the Gold Tableau extract to a dashboard.
 
-See [SQL run order](sql/RUN_ORDER.md) for the exact execution sequence.
 
 ## Repository structure
 
